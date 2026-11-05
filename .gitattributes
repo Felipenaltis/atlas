@@ -1,0 +1,4 @@
+*.glb binary
+# Preserve upstream license texts byte-for-byte, including their whitespace.
+public/fonts/*-OFL.txt -whitespace
+public/models/Z-Anatomy-original-license.txt -whitespace

@@ -1,0 +1,38 @@
+{
+  "source": "Z-Anatomy / BodyParts3D",
+  "sourceRevision": "a4811a204f87a99e757ede4cb0ddb49bbc1a03ff",
+  "compression": "EXT_meshopt_compression",
+  "totalStructures": 2548,
+  "models": [
+    {
+      "file": "skeleton.glb",
+      "structures": 206,
+      "bytes": 1865776,
+      "sha256": "d5a73f036b6c52e1d8c6966759b5f5f3ee3d1eb9afb97bbe41925a2cceffbba0"
+    },
+    {
+      "file": "muscular.glb",
+      "structures": 681,
+      "bytes": 3831700,
+      "sha256": "ce882df58b141e0c1c74e3305b1a4bdbb99ac95d4081d05badc68239ef527648"
+    },
+    {
+      "file": "cardiovascular.glb",
+      "structures": 676,
+      "bytes": 6478816,
+      "sha256": "6eab163a3dbe223cbd4255e70cedd56cb8ad9d4fc1b3840b2cc78420364191e4"
+    },
+    {
+      "file": "nervous.glb",
+      "structures": 792,
+      "bytes": 5908580,
+      "sha256": "54ac6a2ccda87ac6da1d37482df26dbaa64bf85eca4eb89fea52c271d07af87d"
+    },
+    {
+      "file": "visceral.glb",
+      "structures": 193,
+      "bytes": 1407588,
+      "sha256": "adfe0f9887b8f000f7b69e727d03e867fb9a01d2f3f733da2a62a71680597ee2"
+    }
+  ]
+}

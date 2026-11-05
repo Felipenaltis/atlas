@@ -1,0 +1,5092 @@
+[
+  {
+    "id": "frontal",
+    "name": "Frontal",
+    "latin": "Os frontale",
+    "english": "Frontal bone",
+    "region": "skull",
+    "kind": "plano",
+    "description": "Forma la frente, el techo de las órbitas y parte de la fosa craneal anterior.",
+    "landmarks": [
+      "Escama frontal",
+      "Glabela",
+      "Borde supraorbitario",
+      "Seno frontal",
+      "Porción orbitaria"
+    ],
+    "articulations": [
+      "Parietales",
+      "Esfenoides",
+      "Etmoides",
+      "Nasales",
+      "Maxilares",
+      "Lagrimales",
+      "Cigomáticos"
+    ],
+    "side": null,
+    "division": "axial",
+    "sources": [
+      "Frontal bone"
+    ]
+  },
+  {
+    "id": "parietal-r",
+    "name": "Parietal",
+    "latin": "Os parietale · dextrum",
+    "english": "Parietal bone",
+    "region": "skull",
+    "kind": "plano",
+    "description": "Constituye la parte superior y lateral de la bóveda craneal.",
+    "landmarks": [
+      "Eminencia parietal",
+      "Línea temporal superior",
+      "Surco del seno sagital superior",
+      "Foramen parietal"
+    ],
+    "articulations": [
+      "Frontal",
+      "Occipital",
+      "Temporal",
+      "Esfenoides",
+      "Parietal contralateral"
+    ],
+    "side": "r",
+    "division": "axial",
+    "sources": [
+      "Parietal bone.r"
+    ]
+  },
+  {
+    "id": "parietal-l",
+    "name": "Parietal",
+    "latin": "Os parietale · sinistrum",
+    "english": "Parietal bone",
+    "region": "skull",
+    "kind": "plano",
+    "description": "Constituye la parte superior y lateral de la bóveda craneal.",
+    "landmarks": [
+      "Eminencia parietal",
+      "Línea temporal superior",
+      "Surco del seno sagital superior",
+      "Foramen parietal"
+    ],
+    "articulations": [
+      "Frontal",
+      "Occipital",
+      "Temporal",
+      "Esfenoides",
+      "Parietal contralateral"
+    ],
+    "side": "l",
+    "division": "axial",
+    "sources": [
+      "Parietal bone.l"
+    ]
+  },
+  {
+    "id": "temporal-r",
+    "name": "Temporal",
+    "latin": "Os temporale · dextrum",
+    "english": "Temporal bone",
+    "region": "skull",
+    "kind": "irregular",
+    "description": "Forma parte de la base y de la pared lateral del cráneo. Aloja los órganos de la audición y del equilibrio.",
+    "landmarks": [
+      "Porción petrosa",
+      "Apófisis mastoides",
+      "Apófisis estiloides",
+      "Meato acústico externo",
+      "Fosa mandibular",
+      "Apófisis cigomática"
+    ],
+    "articulations": [
+      "Parietal",
+      "Occipital",
+      "Esfenoides",
+      "Cigomático",
+      "Mandíbula"
+    ],
+    "side": "r",
+    "division": "axial",
+    "sources": [
+      "Temporal bone.r"
+    ]
+  },
+  {
+    "id": "temporal-l",
+    "name": "Temporal",
+    "latin": "Os temporale · sinistrum",
+    "english": "Temporal bone",
+    "region": "skull",
+    "kind": "irregular",
+    "description": "Forma parte de la base y de la pared lateral del cráneo. Aloja los órganos de la audición y del equilibrio.",
+    "landmarks": [
+      "Porción petrosa",
+      "Apófisis mastoides",
+      "Apófisis estiloides",
+      "Meato acústico externo",
+      "Fosa mandibular",
+      "Apófisis cigomática"
+    ],
+    "articulations": [
+      "Parietal",
+      "Occipital",
+      "Esfenoides",
+      "Cigomático",
+      "Mandíbula"
+    ],
+    "side": "l",
+    "division": "axial",
+    "sources": [
+      "Temporal bone.l"
+    ]
+  },
+  {
+    "id": "occipital",
+    "name": "Occipital",
+    "latin": "Os occipitale",
+    "english": "Occipital bone",
+    "region": "skull",
+    "kind": "plano",
+    "description": "Forma la región posterior e inferior del cráneo y rodea el foramen magno.",
+    "landmarks": [
+      "Foramen magno",
+      "Cóndilos occipitales",
+      "Protuberancia occipital externa",
+      "Líneas nucales",
+      "Porción basilar"
+    ],
+    "articulations": [
+      "Parietales",
+      "Temporales",
+      "Esfenoides",
+      "Atlas"
+    ],
+    "side": null,
+    "division": "axial",
+    "sources": [
+      "Occipital bone"
+    ]
+  },
+  {
+    "id": "sphenoid",
+    "name": "Esfenoides",
+    "latin": "Os sphenoidale",
+    "english": "Sphenoid bone",
+    "region": "skull",
+    "kind": "irregular",
+    "description": "Hueso central de la base craneal que participa en las órbitas y conecta múltiples huesos del cráneo.",
+    "landmarks": [
+      "Silla turca",
+      "Cuerpo",
+      "Alas mayores",
+      "Alas menores",
+      "Apófisis pterigoides",
+      "Conducto óptico",
+      "Foramen oval",
+      "Foramen espinoso"
+    ],
+    "articulations": [
+      "Frontal",
+      "Parietales",
+      "Temporales",
+      "Occipital",
+      "Etmoides",
+      "Cigomáticos",
+      "Palatinos",
+      "Vómer"
+    ],
+    "side": null,
+    "division": "axial",
+    "sources": [
+      "Sphenoid bone"
+    ]
+  },
+  {
+    "id": "ethmoid",
+    "name": "Etmoides",
+    "latin": "Os ethmoidale",
+    "english": "Ethmoid bone",
+    "region": "skull",
+    "kind": "irregular",
+    "description": "Participa en la cavidad nasal, el tabique nasal y la pared medial de la órbita.",
+    "landmarks": [
+      "Lámina cribosa",
+      "Crista galli",
+      "Lámina perpendicular",
+      "Laberinto etmoidal",
+      "Concha nasal superior",
+      "Concha nasal media"
+    ],
+    "articulations": [
+      "Frontal",
+      "Esfenoides",
+      "Vómer",
+      "Nasales",
+      "Maxilares",
+      "Lagrimales",
+      "Palatinos",
+      "Conchas nasales inferiores"
+    ],
+    "side": null,
+    "division": "axial",
+    "sources": [
+      "Ethmoid bone"
+    ]
+  },
+  {
+    "id": "nasal-r",
+    "name": "Nasal",
+    "latin": "Os nasale · dextrum",
+    "english": "Nasal bone",
+    "region": "skull",
+    "kind": "plano",
+    "description": "Constituye el puente óseo de la nariz.",
+    "landmarks": [
+      "Borde superior",
+      "Cara externa",
+      "Surco etmoidal"
+    ],
+    "articulations": [
+      "Frontal",
+      "Etmoides",
+      "Maxilar",
+      "Nasal contralateral"
+    ],
+    "side": "r",
+    "division": "axial",
+    "sources": [
+      "Nasal bone.r"
+    ]
+  },
+  {
+    "id": "nasal-l",
+    "name": "Nasal",
+    "latin": "Os nasale · sinistrum",
+    "english": "Nasal bone",
+    "region": "skull",
+    "kind": "plano",
+    "description": "Constituye el puente óseo de la nariz.",
+    "landmarks": [
+      "Borde superior",
+      "Cara externa",
+      "Surco etmoidal"
+    ],
+    "articulations": [
+      "Frontal",
+      "Etmoides",
+      "Maxilar",
+      "Nasal contralateral"
+    ],
+    "side": "l",
+    "division": "axial",
+    "sources": [
+      "Nasal bone.l"
+    ]
+  },
+  {
+    "id": "lacrimal-r",
+    "name": "Lagrimal",
+    "latin": "Os lacrimale · dextrum",
+    "english": "Lacrimal bone",
+    "region": "skull",
+    "kind": "plano",
+    "description": "Pequeño hueso de la pared medial de la órbita, relacionado con el drenaje de las lágrimas.",
+    "landmarks": [
+      "Cresta lagrimal posterior",
+      "Surco lagrimal",
+      "Gancho lagrimal"
+    ],
+    "articulations": [
+      "Frontal",
+      "Etmoides",
+      "Maxilar",
+      "Concha nasal inferior"
+    ],
+    "side": "r",
+    "division": "axial",
+    "sources": [
+      "Lacrimal bone.r"
+    ]
+  },
+  {
+    "id": "lacrimal-l",
+    "name": "Lagrimal",
+    "latin": "Os lacrimale · sinistrum",
+    "english": "Lacrimal bone",
+    "region": "skull",
+    "kind": "plano",
+    "description": "Pequeño hueso de la pared medial de la órbita, relacionado con el drenaje de las lágrimas.",
+    "landmarks": [
+      "Cresta lagrimal posterior",
+      "Surco lagrimal",
+      "Gancho lagrimal"
+    ],
+    "articulations": [
+      "Frontal",
+      "Etmoides",
+      "Maxilar",
+      "Concha nasal inferior"
+    ],
+    "side": "l",
+    "division": "axial",
+    "sources": [
+      "Lacrimal bone.l"
+    ]
+  },
+  {
+    "id": "zygomatic-r",
+    "name": "Cigomático",
+    "latin": "Os zygomaticum · dextrum",
+    "english": "Zygomatic bone",
+    "region": "skull",
+    "kind": "irregular",
+    "description": "Forma la prominencia de la mejilla y parte de la órbita y del arco cigomático.",
+    "landmarks": [
+      "Apófisis temporal",
+      "Apófisis frontal",
+      "Foramen cigomaticofacial",
+      "Cara orbitaria"
+    ],
+    "articulations": [
+      "Frontal",
+      "Temporal",
+      "Esfenoides",
+      "Maxilar"
+    ],
+    "side": "r",
+    "division": "axial",
+    "sources": [
+      "Zygomatic bone.r"
+    ]
+  },
+  {
+    "id": "zygomatic-l",
+    "name": "Cigomático",
+    "latin": "Os zygomaticum · sinistrum",
+    "english": "Zygomatic bone",
+    "region": "skull",
+    "kind": "irregular",
+    "description": "Forma la prominencia de la mejilla y parte de la órbita y del arco cigomático.",
+    "landmarks": [
+      "Apófisis temporal",
+      "Apófisis frontal",
+      "Foramen cigomaticofacial",
+      "Cara orbitaria"
+    ],
+    "articulations": [
+      "Frontal",
+      "Temporal",
+      "Esfenoides",
+      "Maxilar"
+    ],
+    "side": "l",
+    "division": "axial",
+    "sources": [
+      "Zygomatic bone.l"
+    ]
+  },
+  {
+    "id": "maxilla-r",
+    "name": "Maxilar",
+    "latin": "Maxilla · dextra",
+    "english": "Maxilla",
+    "region": "skull",
+    "kind": "irregular",
+    "description": "Sostiene los dientes superiores y forma parte del paladar duro, las órbitas y la cavidad nasal.",
+    "landmarks": [
+      "Seno maxilar",
+      "Apófisis alveolar",
+      "Apófisis palatina",
+      "Foramen infraorbitario",
+      "Apófisis frontal"
+    ],
+    "articulations": [
+      "Frontal",
+      "Etmoides",
+      "Nasal",
+      "Lagrimal",
+      "Cigomático",
+      "Palatino",
+      "Concha nasal inferior",
+      "Vómer",
+      "Maxilar contralateral"
+    ],
+    "side": "r",
+    "division": "axial",
+    "sources": [
+      "Maxilla.r"
+    ]
+  },
+  {
+    "id": "maxilla-l",
+    "name": "Maxilar",
+    "latin": "Maxilla · sinistra",
+    "english": "Maxilla",
+    "region": "skull",
+    "kind": "irregular",
+    "description": "Sostiene los dientes superiores y forma parte del paladar duro, las órbitas y la cavidad nasal.",
+    "landmarks": [
+      "Seno maxilar",
+      "Apófisis alveolar",
+      "Apófisis palatina",
+      "Foramen infraorbitario",
+      "Apófisis frontal"
+    ],
+    "articulations": [
+      "Frontal",
+      "Etmoides",
+      "Nasal",
+      "Lagrimal",
+      "Cigomático",
+      "Palatino",
+      "Concha nasal inferior",
+      "Vómer",
+      "Maxilar contralateral"
+    ],
+    "side": "l",
+    "division": "axial",
+    "sources": [
+      "Maxilla.l"
+    ]
+  },
+  {
+    "id": "palatine-r",
+    "name": "Palatino",
+    "latin": "Os palatinum · dextrum",
+    "english": "Palatine bone",
+    "region": "skull",
+    "kind": "irregular",
+    "description": "Forma la porción posterior del paladar duro y participa en las cavidades nasal y orbitaria.",
+    "landmarks": [
+      "Lámina horizontal",
+      "Lámina perpendicular",
+      "Apófisis piramidal",
+      "Foramen palatino mayor"
+    ],
+    "articulations": [
+      "Maxilar",
+      "Esfenoides",
+      "Etmoides",
+      "Vómer",
+      "Concha nasal inferior",
+      "Palatino contralateral"
+    ],
+    "side": "r",
+    "division": "axial",
+    "sources": [
+      "Palatine bone.r"
+    ]
+  },
+  {
+    "id": "palatine-l",
+    "name": "Palatino",
+    "latin": "Os palatinum · sinistrum",
+    "english": "Palatine bone",
+    "region": "skull",
+    "kind": "irregular",
+    "description": "Forma la porción posterior del paladar duro y participa en las cavidades nasal y orbitaria.",
+    "landmarks": [
+      "Lámina horizontal",
+      "Lámina perpendicular",
+      "Apófisis piramidal",
+      "Foramen palatino mayor"
+    ],
+    "articulations": [
+      "Maxilar",
+      "Esfenoides",
+      "Etmoides",
+      "Vómer",
+      "Concha nasal inferior",
+      "Palatino contralateral"
+    ],
+    "side": "l",
+    "division": "axial",
+    "sources": [
+      "Palatine bone.l"
+    ]
+  },
+  {
+    "id": "concha-r",
+    "name": "Concha nasal inferior",
+    "latin": "Concha nasalis inferior · dextra",
+    "english": "Inferior nasal concha bone",
+    "region": "skull",
+    "kind": "irregular",
+    "description": "Lámina ósea curva de la pared lateral nasal que ayuda a acondicionar el aire inspirado.",
+    "landmarks": [
+      "Apófisis lagrimal",
+      "Apófisis etmoidal",
+      "Apófisis maxilar"
+    ],
+    "articulations": [
+      "Maxilar",
+      "Lagrimal",
+      "Etmoides",
+      "Palatino"
+    ],
+    "side": "r",
+    "division": "axial",
+    "sources": [
+      "Inferior nasal concha bone.r"
+    ]
+  },
+  {
+    "id": "concha-l",
+    "name": "Concha nasal inferior",
+    "latin": "Concha nasalis inferior · sinistra",
+    "english": "Inferior nasal concha bone",
+    "region": "skull",
+    "kind": "irregular",
+    "description": "Lámina ósea curva de la pared lateral nasal que ayuda a acondicionar el aire inspirado.",
+    "landmarks": [
+      "Apófisis lagrimal",
+      "Apófisis etmoidal",
+      "Apófisis maxilar"
+    ],
+    "articulations": [
+      "Maxilar",
+      "Lagrimal",
+      "Etmoides",
+      "Palatino"
+    ],
+    "side": "l",
+    "division": "axial",
+    "sources": [
+      "Inferior nasal concha bone.l"
+    ]
+  },
+  {
+    "id": "vomer",
+    "name": "Vómer",
+    "latin": "Vomer",
+    "english": "Vomer",
+    "region": "skull",
+    "kind": "plano",
+    "description": "Constituye la parte posteroinferior del tabique nasal óseo.",
+    "landmarks": [
+      "Alas del vómer",
+      "Surco nasopalatino",
+      "Borde inferior"
+    ],
+    "articulations": [
+      "Esfenoides",
+      "Etmoides",
+      "Maxilares",
+      "Palatinos"
+    ],
+    "side": null,
+    "division": "axial",
+    "sources": [
+      "Vomer"
+    ]
+  },
+  {
+    "id": "mandible",
+    "name": "Mandíbula",
+    "latin": "Mandibula",
+    "english": "Mandible",
+    "region": "skull",
+    "kind": "irregular",
+    "description": "Hueso móvil de la cara que sostiene los dientes inferiores y participa en la masticación.",
+    "landmarks": [
+      "Cuerpo",
+      "Rama",
+      "Ángulo mandibular",
+      "Apófisis condilar",
+      "Apófisis coronoides",
+      "Foramen mentoniano",
+      "Foramen mandibular"
+    ],
+    "articulations": [
+      "Temporales, mediante las articulaciones temporomandibulares"
+    ],
+    "side": null,
+    "division": "axial",
+    "sources": [
+      "Mandible"
+    ]
+  },
+  {
+    "id": "hyoid",
+    "name": "Hioides",
+    "latin": "Os hyoideum",
+    "english": "Hyoid bone",
+    "region": "skull",
+    "kind": "irregular",
+    "description": "Hueso suspendido en el cuello que sostiene la lengua y sirve de inserción a músculos de la deglución.",
+    "landmarks": [
+      "Cuerpo",
+      "Astas mayores",
+      "Astas menores"
+    ],
+    "articulations": [
+      "No se articula directamente con otros huesos"
+    ],
+    "side": null,
+    "division": "axial",
+    "sources": [
+      "Hyoid bone"
+    ]
+  },
+  {
+    "id": "malleus-r",
+    "name": "Martillo",
+    "latin": "Malleus · dexter",
+    "english": "Malleus",
+    "region": "skull",
+    "kind": "irregular",
+    "description": "Huesecillo del oído medio unido a la membrana timpánica; transmite las vibraciones al yunque.",
+    "landmarks": [
+      "Cabeza",
+      "Cuello",
+      "Manubrio",
+      "Apófisis anterior",
+      "Apófisis lateral"
+    ],
+    "articulations": [
+      "Yunque"
+    ],
+    "side": "r",
+    "division": "axial",
+    "sources": [
+      "Malleus.r"
+    ]
+  },
+  {
+    "id": "malleus-l",
+    "name": "Martillo",
+    "latin": "Malleus · sinister",
+    "english": "Malleus",
+    "region": "skull",
+    "kind": "irregular",
+    "description": "Huesecillo del oído medio unido a la membrana timpánica; transmite las vibraciones al yunque.",
+    "landmarks": [
+      "Cabeza",
+      "Cuello",
+      "Manubrio",
+      "Apófisis anterior",
+      "Apófisis lateral"
+    ],
+    "articulations": [
+      "Yunque"
+    ],
+    "side": "l",
+    "division": "axial",
+    "sources": [
+      "Malleus.l"
+    ]
+  },
+  {
+    "id": "incus-r",
+    "name": "Yunque",
+    "latin": "Incus · dextra",
+    "english": "Incus",
+    "region": "skull",
+    "kind": "irregular",
+    "description": "Huesecillo del oído medio situado entre el martillo y el estribo.",
+    "landmarks": [
+      "Cuerpo",
+      "Rama corta",
+      "Rama larga",
+      "Apófisis lenticular"
+    ],
+    "articulations": [
+      "Martillo",
+      "Estribo"
+    ],
+    "side": "r",
+    "division": "axial",
+    "sources": [
+      "Incus.r"
+    ]
+  },
+  {
+    "id": "incus-l",
+    "name": "Yunque",
+    "latin": "Incus · sinistra",
+    "english": "Incus",
+    "region": "skull",
+    "kind": "irregular",
+    "description": "Huesecillo del oído medio situado entre el martillo y el estribo.",
+    "landmarks": [
+      "Cuerpo",
+      "Rama corta",
+      "Rama larga",
+      "Apófisis lenticular"
+    ],
+    "articulations": [
+      "Martillo",
+      "Estribo"
+    ],
+    "side": "l",
+    "division": "axial",
+    "sources": [
+      "Incus.l"
+    ]
+  },
+  {
+    "id": "stapes-r",
+    "name": "Estribo",
+    "latin": "Stapes · dexter",
+    "english": "Stapes",
+    "region": "skull",
+    "kind": "irregular",
+    "description": "Transmite las vibraciones del oído medio hacia la ventana vestibular del oído interno.",
+    "landmarks": [
+      "Cabeza",
+      "Rama anterior",
+      "Rama posterior",
+      "Base del estribo"
+    ],
+    "articulations": [
+      "Yunque",
+      "Ventana vestibular mediante el ligamento anular"
+    ],
+    "side": "r",
+    "division": "axial",
+    "sources": [
+      "Stapes.r"
+    ]
+  },
+  {
+    "id": "stapes-l",
+    "name": "Estribo",
+    "latin": "Stapes · sinister",
+    "english": "Stapes",
+    "region": "skull",
+    "kind": "irregular",
+    "description": "Transmite las vibraciones del oído medio hacia la ventana vestibular del oído interno.",
+    "landmarks": [
+      "Cabeza",
+      "Rama anterior",
+      "Rama posterior",
+      "Base del estribo"
+    ],
+    "articulations": [
+      "Yunque",
+      "Ventana vestibular mediante el ligamento anular"
+    ],
+    "side": "l",
+    "division": "axial",
+    "sources": [
+      "Stapes.l"
+    ]
+  },
+  {
+    "id": "vertebra-c1",
+    "name": "Atlas · C1",
+    "latin": "Vertebra cervicalis 1",
+    "english": "Atlas (C1)",
+    "region": "spine",
+    "kind": "irregular",
+    "description": "Sostiene y moviliza la cabeza. Las vértebras cervicales presentan forámenes transversos; C1 y C2 tienen una morfología especializada.",
+    "landmarks": [
+      "Arco anterior",
+      "Arco posterior",
+      "Masas laterales",
+      "Fóvea del diente"
+    ],
+    "articulations": [
+      "Vértebras adyacentes",
+      "Occipital"
+    ],
+    "side": null,
+    "division": "axial",
+    "sources": [
+      "Atlas (C1)"
+    ]
+  },
+  {
+    "id": "vertebra-c2",
+    "name": "Axis · C2",
+    "latin": "Vertebra cervicalis 2",
+    "english": "Axis (C2)",
+    "region": "spine",
+    "kind": "irregular",
+    "description": "Sostiene y moviliza la cabeza. Las vértebras cervicales presentan forámenes transversos; C1 y C2 tienen una morfología especializada.",
+    "landmarks": [
+      "Diente del axis",
+      "Cuerpo",
+      "Apófisis espinosa",
+      "Apófisis transversas"
+    ],
+    "articulations": [
+      "Vértebras adyacentes"
+    ],
+    "side": null,
+    "division": "axial",
+    "sources": [
+      "Axis (C2)"
+    ]
+  },
+  {
+    "id": "vertebra-c3",
+    "name": "Vértebra cervical · C3",
+    "latin": "Vertebra cervicalis 3",
+    "english": "Vertebra C3",
+    "region": "spine",
+    "kind": "irregular",
+    "description": "Sostiene y moviliza la cabeza. Las vértebras cervicales presentan forámenes transversos; C1 y C2 tienen una morfología especializada.",
+    "landmarks": [
+      "Cuerpo vertebral",
+      "Arco vertebral",
+      "Pedículos",
+      "Láminas",
+      "Apófisis espinosa",
+      "Apófisis transversas",
+      "Apófisis articulares",
+      "Foramen vertebral"
+    ],
+    "articulations": [
+      "Vértebras adyacentes"
+    ],
+    "side": null,
+    "division": "axial",
+    "sources": [
+      "Vertebra C3"
+    ]
+  },
+  {
+    "id": "vertebra-c4",
+    "name": "Vértebra cervical · C4",
+    "latin": "Vertebra cervicalis 4",
+    "english": "Vertebra C4",
+    "region": "spine",
+    "kind": "irregular",
+    "description": "Sostiene y moviliza la cabeza. Las vértebras cervicales presentan forámenes transversos; C1 y C2 tienen una morfología especializada.",
+    "landmarks": [
+      "Cuerpo vertebral",
+      "Arco vertebral",
+      "Pedículos",
+      "Láminas",
+      "Apófisis espinosa",
+      "Apófisis transversas",
+      "Apófisis articulares",
+      "Foramen vertebral"
+    ],
+    "articulations": [
+      "Vértebras adyacentes"
+    ],
+    "side": null,
+    "division": "axial",
+    "sources": [
+      "Vertebra C4"
+    ]
+  },
+  {
+    "id": "vertebra-c5",
+    "name": "Vértebra cervical · C5",
+    "latin": "Vertebra cervicalis 5",
+    "english": "Vertebra C5",
+    "region": "spine",
+    "kind": "irregular",
+    "description": "Sostiene y moviliza la cabeza. Las vértebras cervicales presentan forámenes transversos; C1 y C2 tienen una morfología especializada.",
+    "landmarks": [
+      "Cuerpo vertebral",
+      "Arco vertebral",
+      "Pedículos",
+      "Láminas",
+      "Apófisis espinosa",
+      "Apófisis transversas",
+      "Apófisis articulares",
+      "Foramen vertebral"
+    ],
+    "articulations": [
+      "Vértebras adyacentes"
+    ],
+    "side": null,
+    "division": "axial",
+    "sources": [
+      "Vertebra C5"
+    ]
+  },
+  {
+    "id": "vertebra-c6",
+    "name": "Vértebra cervical · C6",
+    "latin": "Vertebra cervicalis 6",
+    "english": "Vertebra C6",
+    "region": "spine",
+    "kind": "irregular",
+    "description": "Sostiene y moviliza la cabeza. Las vértebras cervicales presentan forámenes transversos; C1 y C2 tienen una morfología especializada.",
+    "landmarks": [
+      "Cuerpo vertebral",
+      "Arco vertebral",
+      "Pedículos",
+      "Láminas",
+      "Apófisis espinosa",
+      "Apófisis transversas",
+      "Apófisis articulares",
+      "Foramen vertebral"
+    ],
+    "articulations": [
+      "Vértebras adyacentes"
+    ],
+    "side": null,
+    "division": "axial",
+    "sources": [
+      "Vertebra C6"
+    ]
+  },
+  {
+    "id": "vertebra-c7",
+    "name": "Vértebra cervical · C7",
+    "latin": "Vertebra cervicalis 7",
+    "english": "Vertebra C7",
+    "region": "spine",
+    "kind": "irregular",
+    "description": "Sostiene y moviliza la cabeza. Las vértebras cervicales presentan forámenes transversos; C1 y C2 tienen una morfología especializada.",
+    "landmarks": [
+      "Cuerpo vertebral",
+      "Arco vertebral",
+      "Pedículos",
+      "Láminas",
+      "Apófisis espinosa",
+      "Apófisis transversas",
+      "Apófisis articulares",
+      "Foramen vertebral"
+    ],
+    "articulations": [
+      "Vértebras adyacentes"
+    ],
+    "side": null,
+    "division": "axial",
+    "sources": [
+      "Vertebra C7"
+    ]
+  },
+  {
+    "id": "vertebra-t1",
+    "name": "Vértebra torácica · T1",
+    "latin": "Vertebra thoracica 1",
+    "english": "Vertebra T1",
+    "region": "spine",
+    "kind": "irregular",
+    "description": "Participa en la pared posterior del tórax y en la articulación de las costillas.",
+    "landmarks": [
+      "Cuerpo vertebral",
+      "Arco vertebral",
+      "Pedículos",
+      "Láminas",
+      "Apófisis espinosa",
+      "Apófisis transversas",
+      "Apófisis articulares",
+      "Foramen vertebral"
+    ],
+    "articulations": [
+      "Vértebras adyacentes",
+      "Costillas correspondientes"
+    ],
+    "side": null,
+    "division": "axial",
+    "sources": [
+      "Vertebra T1"
+    ]
+  },
+  {
+    "id": "vertebra-t2",
+    "name": "Vértebra torácica · T2",
+    "latin": "Vertebra thoracica 2",
+    "english": "Vertebra T2",
+    "region": "spine",
+    "kind": "irregular",
+    "description": "Participa en la pared posterior del tórax y en la articulación de las costillas.",
+    "landmarks": [
+      "Cuerpo vertebral",
+      "Arco vertebral",
+      "Pedículos",
+      "Láminas",
+      "Apófisis espinosa",
+      "Apófisis transversas",
+      "Apófisis articulares",
+      "Foramen vertebral"
+    ],
+    "articulations": [
+      "Vértebras adyacentes",
+      "Costillas correspondientes"
+    ],
+    "side": null,
+    "division": "axial",
+    "sources": [
+      "Vertebra T2"
+    ]
+  },
+  {
+    "id": "vertebra-t3",
+    "name": "Vértebra torácica · T3",
+    "latin": "Vertebra thoracica 3",
+    "english": "Vertebra T3",
+    "region": "spine",
+    "kind": "irregular",
+    "description": "Participa en la pared posterior del tórax y en la articulación de las costillas.",
+    "landmarks": [
+      "Cuerpo vertebral",
+      "Arco vertebral",
+      "Pedículos",
+      "Láminas",
+      "Apófisis espinosa",
+      "Apófisis transversas",
+      "Apófisis articulares",
+      "Foramen vertebral"
+    ],
+    "articulations": [
+      "Vértebras adyacentes",
+      "Costillas correspondientes"
+    ],
+    "side": null,
+    "division": "axial",
+    "sources": [
+      "Vertebra T3"
+    ]
+  },
+  {
+    "id": "vertebra-t4",
+    "name": "Vértebra torácica · T4",
+    "latin": "Vertebra thoracica 4",
+    "english": "Vertebra T4",
+    "region": "spine",
+    "kind": "irregular",
+    "description": "Participa en la pared posterior del tórax y en la articulación de las costillas.",
+    "landmarks": [
+      "Cuerpo vertebral",
+      "Arco vertebral",
+      "Pedículos",
+      "Láminas",
+      "Apófisis espinosa",
+      "Apófisis transversas",
+      "Apófisis articulares",
+      "Foramen vertebral"
+    ],
+    "articulations": [
+      "Vértebras adyacentes",
+      "Costillas correspondientes"
+    ],
+    "side": null,
+    "division": "axial",
+    "sources": [
+      "Vertebra T4"
+    ]
+  },
+  {
+    "id": "vertebra-t5",
+    "name": "Vértebra torácica · T5",
+    "latin": "Vertebra thoracica 5",
+    "english": "Vertebra T5",
+    "region": "spine",
+    "kind": "irregular",
+    "description": "Participa en la pared posterior del tórax y en la articulación de las costillas.",
+    "landmarks": [
+      "Cuerpo vertebral",
+      "Arco vertebral",
+      "Pedículos",
+      "Láminas",
+      "Apófisis espinosa",
+      "Apófisis transversas",
+      "Apófisis articulares",
+      "Foramen vertebral"
+    ],
+    "articulations": [
+      "Vértebras adyacentes",
+      "Costillas correspondientes"
+    ],
+    "side": null,
+    "division": "axial",
+    "sources": [
+      "Vertebra T5"
+    ]
+  },
+  {
+    "id": "vertebra-t6",
+    "name": "Vértebra torácica · T6",
+    "latin": "Vertebra thoracica 6",
+    "english": "Vertebra T6",
+    "region": "spine",
+    "kind": "irregular",
+    "description": "Participa en la pared posterior del tórax y en la articulación de las costillas.",
+    "landmarks": [
+      "Cuerpo vertebral",
+      "Arco vertebral",
+      "Pedículos",
+      "Láminas",
+      "Apófisis espinosa",
+      "Apófisis transversas",
+      "Apófisis articulares",
+      "Foramen vertebral"
+    ],
+    "articulations": [
+      "Vértebras adyacentes",
+      "Costillas correspondientes"
+    ],
+    "side": null,
+    "division": "axial",
+    "sources": [
+      "Vertebra T6"
+    ]
+  },
+  {
+    "id": "vertebra-t7",
+    "name": "Vértebra torácica · T7",
+    "latin": "Vertebra thoracica 7",
+    "english": "Vertebra T7",
+    "region": "spine",
+    "kind": "irregular",
+    "description": "Participa en la pared posterior del tórax y en la articulación de las costillas.",
+    "landmarks": [
+      "Cuerpo vertebral",
+      "Arco vertebral",
+      "Pedículos",
+      "Láminas",
+      "Apófisis espinosa",
+      "Apófisis transversas",
+      "Apófisis articulares",
+      "Foramen vertebral"
+    ],
+    "articulations": [
+      "Vértebras adyacentes",
+      "Costillas correspondientes"
+    ],
+    "side": null,
+    "division": "axial",
+    "sources": [
+      "Vertebra T7"
+    ]
+  },
+  {
+    "id": "vertebra-t8",
+    "name": "Vértebra torácica · T8",
+    "latin": "Vertebra thoracica 8",
+    "english": "Vertebra T8",
+    "region": "spine",
+    "kind": "irregular",
+    "description": "Participa en la pared posterior del tórax y en la articulación de las costillas.",
+    "landmarks": [
+      "Cuerpo vertebral",
+      "Arco vertebral",
+      "Pedículos",
+      "Láminas",
+      "Apófisis espinosa",
+      "Apófisis transversas",
+      "Apófisis articulares",
+      "Foramen vertebral"
+    ],
+    "articulations": [
+      "Vértebras adyacentes",
+      "Costillas correspondientes"
+    ],
+    "side": null,
+    "division": "axial",
+    "sources": [
+      "Vertebra T8"
+    ]
+  },
+  {
+    "id": "vertebra-t9",
+    "name": "Vértebra torácica · T9",
+    "latin": "Vertebra thoracica 9",
+    "english": "Vertebra T9",
+    "region": "spine",
+    "kind": "irregular",
+    "description": "Participa en la pared posterior del tórax y en la articulación de las costillas.",
+    "landmarks": [
+      "Cuerpo vertebral",
+      "Arco vertebral",
+      "Pedículos",
+      "Láminas",
+      "Apófisis espinosa",
+      "Apófisis transversas",
+      "Apófisis articulares",
+      "Foramen vertebral"
+    ],
+    "articulations": [
+      "Vértebras adyacentes",
+      "Costillas correspondientes"
+    ],
+    "side": null,
+    "division": "axial",
+    "sources": [
+      "Vertebra T9"
+    ]
+  },
+  {
+    "id": "vertebra-t10",
+    "name": "Vértebra torácica · T10",
+    "latin": "Vertebra thoracica 10",
+    "english": "Vertebra T10",
+    "region": "spine",
+    "kind": "irregular",
+    "description": "Participa en la pared posterior del tórax y en la articulación de las costillas.",
+    "landmarks": [
+      "Cuerpo vertebral",
+      "Arco vertebral",
+      "Pedículos",
+      "Láminas",
+      "Apófisis espinosa",
+      "Apófisis transversas",
+      "Apófisis articulares",
+      "Foramen vertebral"
+    ],
+    "articulations": [
+      "Vértebras adyacentes",
+      "Costillas correspondientes"
+    ],
+    "side": null,
+    "division": "axial",
+    "sources": [
+      "Vertebra T10"
+    ]
+  },
+  {
+    "id": "vertebra-t11",
+    "name": "Vértebra torácica · T11",
+    "latin": "Vertebra thoracica 11",
+    "english": "Vertebra T11",
+    "region": "spine",
+    "kind": "irregular",
+    "description": "Participa en la pared posterior del tórax y en la articulación de las costillas.",
+    "landmarks": [
+      "Cuerpo vertebral",
+      "Arco vertebral",
+      "Pedículos",
+      "Láminas",
+      "Apófisis espinosa",
+      "Apófisis transversas",
+      "Apófisis articulares",
+      "Foramen vertebral"
+    ],
+    "articulations": [
+      "Vértebras adyacentes",
+      "Costillas correspondientes"
+    ],
+    "side": null,
+    "division": "axial",
+    "sources": [
+      "Vertebra T11"
+    ]
+  },
+  {
+    "id": "vertebra-t12",
+    "name": "Vértebra torácica · T12",
+    "latin": "Vertebra thoracica 12",
+    "english": "Vertebra T12",
+    "region": "spine",
+    "kind": "irregular",
+    "description": "Participa en la pared posterior del tórax y en la articulación de las costillas.",
+    "landmarks": [
+      "Cuerpo vertebral",
+      "Arco vertebral",
+      "Pedículos",
+      "Láminas",
+      "Apófisis espinosa",
+      "Apófisis transversas",
+      "Apófisis articulares",
+      "Foramen vertebral"
+    ],
+    "articulations": [
+      "Vértebras adyacentes",
+      "Costillas correspondientes"
+    ],
+    "side": null,
+    "division": "axial",
+    "sources": [
+      "Vertebra T12"
+    ]
+  },
+  {
+    "id": "vertebra-l1",
+    "name": "Vértebra lumbar · L1",
+    "latin": "Vertebra lumbalis 1",
+    "english": "Vertebra L1",
+    "region": "spine",
+    "kind": "irregular",
+    "description": "Vértebra de gran cuerpo que soporta peso y permite el movimiento de la región lumbar.",
+    "landmarks": [
+      "Cuerpo vertebral",
+      "Arco vertebral",
+      "Pedículos",
+      "Láminas",
+      "Apófisis espinosa",
+      "Apófisis transversas",
+      "Apófisis articulares",
+      "Foramen vertebral"
+    ],
+    "articulations": [
+      "Vértebras adyacentes"
+    ],
+    "side": null,
+    "division": "axial",
+    "sources": [
+      "Vertebra L1"
+    ]
+  },
+  {
+    "id": "vertebra-l2",
+    "name": "Vértebra lumbar · L2",
+    "latin": "Vertebra lumbalis 2",
+    "english": "Vertebra L2",
+    "region": "spine",
+    "kind": "irregular",
+    "description": "Vértebra de gran cuerpo que soporta peso y permite el movimiento de la región lumbar.",
+    "landmarks": [
+      "Cuerpo vertebral",
+      "Arco vertebral",
+      "Pedículos",
+      "Láminas",
+      "Apófisis espinosa",
+      "Apófisis transversas",
+      "Apófisis articulares",
+      "Foramen vertebral"
+    ],
+    "articulations": [
+      "Vértebras adyacentes"
+    ],
+    "side": null,
+    "division": "axial",
+    "sources": [
+      "Vertebra L2"
+    ]
+  },
+  {
+    "id": "vertebra-l3",
+    "name": "Vértebra lumbar · L3",
+    "latin": "Vertebra lumbalis 3",
+    "english": "Vertebra L3",
+    "region": "spine",
+    "kind": "irregular",
+    "description": "Vértebra de gran cuerpo que soporta peso y permite el movimiento de la región lumbar.",
+    "landmarks": [
+      "Cuerpo vertebral",
+      "Arco vertebral",
+      "Pedículos",
+      "Láminas",
+      "Apófisis espinosa",
+      "Apófisis transversas",
+      "Apófisis articulares",
+      "Foramen vertebral"
+    ],
+    "articulations": [
+      "Vértebras adyacentes"
+    ],
+    "side": null,
+    "division": "axial",
+    "sources": [
+      "Vertebra L3"
+    ]
+  },
+  {
+    "id": "vertebra-l4",
+    "name": "Vértebra lumbar · L4",
+    "latin": "Vertebra lumbalis 4",
+    "english": "Vertebra L4",
+    "region": "spine",
+    "kind": "irregular",
+    "description": "Vértebra de gran cuerpo que soporta peso y permite el movimiento de la región lumbar.",
+    "landmarks": [
+      "Cuerpo vertebral",
+      "Arco vertebral",
+      "Pedículos",
+      "Láminas",
+      "Apófisis espinosa",
+      "Apófisis transversas",
+      "Apófisis articulares",
+      "Foramen vertebral"
+    ],
+    "articulations": [
+      "Vértebras adyacentes"
+    ],
+    "side": null,
+    "division": "axial",
+    "sources": [
+      "Vertebra L4"
+    ]
+  },
+  {
+    "id": "vertebra-l5",
+    "name": "Vértebra lumbar · L5",
+    "latin": "Vertebra lumbalis 5",
+    "english": "Vertebra L5",
+    "region": "spine",
+    "kind": "irregular",
+    "description": "Vértebra de gran cuerpo que soporta peso y permite el movimiento de la región lumbar.",
+    "landmarks": [
+      "Cuerpo vertebral",
+      "Arco vertebral",
+      "Pedículos",
+      "Láminas",
+      "Apófisis espinosa",
+      "Apófisis transversas",
+      "Apófisis articulares",
+      "Foramen vertebral"
+    ],
+    "articulations": [
+      "Vértebras adyacentes"
+    ],
+    "side": null,
+    "division": "axial",
+    "sources": [
+      "Vertebra L5"
+    ]
+  },
+  {
+    "id": "sacrum",
+    "name": "Sacro",
+    "latin": "Os sacrum",
+    "english": "Sacrum",
+    "region": "spine",
+    "kind": "irregular",
+    "description": "Resultado de la fusión habitual de cinco vértebras sacras. Transmite el peso de la columna a la cintura pélvica.",
+    "landmarks": [
+      "Promontorio",
+      "Alas del sacro",
+      "Forámenes sacros",
+      "Conducto sacro",
+      "Hiato sacro",
+      "Cresta sacra mediana"
+    ],
+    "articulations": [
+      "L5",
+      "Coxales",
+      "Cóccix"
+    ],
+    "side": null,
+    "division": "axial",
+    "sources": [
+      "Sacrum"
+    ]
+  },
+  {
+    "id": "coccyx",
+    "name": "Cóccix",
+    "latin": "Os coccygis",
+    "english": "Coccyx",
+    "region": "spine",
+    "kind": "irregular",
+    "description": "Segmento terminal de la columna, formado habitualmente por tres a cinco vértebras fusionadas. Se cuenta como un hueso en el adulto.",
+    "landmarks": [
+      "Base",
+      "Vértice",
+      "Astas coccígeas"
+    ],
+    "articulations": [
+      "Sacro"
+    ],
+    "side": null,
+    "division": "axial",
+    "sources": [
+      "Coccyx"
+    ]
+  },
+  {
+    "id": "rib-1-r",
+    "name": "Costilla 1",
+    "latin": "Costa 1 · dextra",
+    "english": "First rib",
+    "region": "thorax",
+    "kind": "plano",
+    "description": "Costilla verdadera: conecta con el esternón a través de su propio cartílago costal.",
+    "landmarks": [
+      "Cabeza",
+      "Cuello",
+      "Tubérculo",
+      "Tubérculo del músculo escaleno anterior",
+      "Surco de la vena subclavia",
+      "Surco de la arteria subclavia"
+    ],
+    "articulations": [
+      "Vértebras torácicas",
+      "Esternón mediante cartílago costal"
+    ],
+    "side": "r",
+    "division": "axial",
+    "sources": [
+      "First rib.r"
+    ]
+  },
+  {
+    "id": "rib-1-l",
+    "name": "Costilla 1",
+    "latin": "Costa 1 · sinistra",
+    "english": "First rib",
+    "region": "thorax",
+    "kind": "plano",
+    "description": "Costilla verdadera: conecta con el esternón a través de su propio cartílago costal.",
+    "landmarks": [
+      "Cabeza",
+      "Cuello",
+      "Tubérculo",
+      "Tubérculo del músculo escaleno anterior",
+      "Surco de la vena subclavia",
+      "Surco de la arteria subclavia"
+    ],
+    "articulations": [
+      "Vértebras torácicas",
+      "Esternón mediante cartílago costal"
+    ],
+    "side": "l",
+    "division": "axial",
+    "sources": [
+      "First rib.l"
+    ]
+  },
+  {
+    "id": "rib-2-r",
+    "name": "Costilla 2",
+    "latin": "Costa 2 · dextra",
+    "english": "Second rib",
+    "region": "thorax",
+    "kind": "plano",
+    "description": "Costilla verdadera: conecta con el esternón a través de su propio cartílago costal.",
+    "landmarks": [
+      "Cabeza",
+      "Cuello",
+      "Tubérculo",
+      "Ángulo",
+      "Cuerpo",
+      "Surco costal",
+      "Tuberosidad del músculo serrato anterior"
+    ],
+    "articulations": [
+      "Vértebras torácicas",
+      "Esternón mediante cartílago costal"
+    ],
+    "side": "r",
+    "division": "axial",
+    "sources": [
+      "Second rib.r"
+    ]
+  },
+  {
+    "id": "rib-2-l",
+    "name": "Costilla 2",
+    "latin": "Costa 2 · sinistra",
+    "english": "Second rib",
+    "region": "thorax",
+    "kind": "plano",
+    "description": "Costilla verdadera: conecta con el esternón a través de su propio cartílago costal.",
+    "landmarks": [
+      "Cabeza",
+      "Cuello",
+      "Tubérculo",
+      "Ángulo",
+      "Cuerpo",
+      "Surco costal",
+      "Tuberosidad del músculo serrato anterior"
+    ],
+    "articulations": [
+      "Vértebras torácicas",
+      "Esternón mediante cartílago costal"
+    ],
+    "side": "l",
+    "division": "axial",
+    "sources": [
+      "Second rib.l"
+    ]
+  },
+  {
+    "id": "rib-3-r",
+    "name": "Costilla 3",
+    "latin": "Costa 3 · dextra",
+    "english": "Third rib",
+    "region": "thorax",
+    "kind": "plano",
+    "description": "Costilla verdadera: conecta con el esternón a través de su propio cartílago costal.",
+    "landmarks": [
+      "Cabeza",
+      "Cuello",
+      "Tubérculo",
+      "Ángulo",
+      "Cuerpo",
+      "Surco costal"
+    ],
+    "articulations": [
+      "Vértebras torácicas",
+      "Esternón mediante cartílago costal"
+    ],
+    "side": "r",
+    "division": "axial",
+    "sources": [
+      "Third rib.r"
+    ]
+  },
+  {
+    "id": "rib-3-l",
+    "name": "Costilla 3",
+    "latin": "Costa 3 · sinistra",
+    "english": "Third rib",
+    "region": "thorax",
+    "kind": "plano",
+    "description": "Costilla verdadera: conecta con el esternón a través de su propio cartílago costal.",
+    "landmarks": [
+      "Cabeza",
+      "Cuello",
+      "Tubérculo",
+      "Ángulo",
+      "Cuerpo",
+      "Surco costal"
+    ],
+    "articulations": [
+      "Vértebras torácicas",
+      "Esternón mediante cartílago costal"
+    ],
+    "side": "l",
+    "division": "axial",
+    "sources": [
+      "Third rib.l"
+    ]
+  },
+  {
+    "id": "rib-4-r",
+    "name": "Costilla 4",
+    "latin": "Costa 4 · dextra",
+    "english": "Fourth rib",
+    "region": "thorax",
+    "kind": "plano",
+    "description": "Costilla verdadera: conecta con el esternón a través de su propio cartílago costal.",
+    "landmarks": [
+      "Cabeza",
+      "Cuello",
+      "Tubérculo",
+      "Ángulo",
+      "Cuerpo",
+      "Surco costal"
+    ],
+    "articulations": [
+      "Vértebras torácicas",
+      "Esternón mediante cartílago costal"
+    ],
+    "side": "r",
+    "division": "axial",
+    "sources": [
+      "Fourth rib.r"
+    ]
+  },
+  {
+    "id": "rib-4-l",
+    "name": "Costilla 4",
+    "latin": "Costa 4 · sinistra",
+    "english": "Fourth rib",
+    "region": "thorax",
+    "kind": "plano",
+    "description": "Costilla verdadera: conecta con el esternón a través de su propio cartílago costal.",
+    "landmarks": [
+      "Cabeza",
+      "Cuello",
+      "Tubérculo",
+      "Ángulo",
+      "Cuerpo",
+      "Surco costal"
+    ],
+    "articulations": [
+      "Vértebras torácicas",
+      "Esternón mediante cartílago costal"
+    ],
+    "side": "l",
+    "division": "axial",
+    "sources": [
+      "Fourth rib.l"
+    ]
+  },
+  {
+    "id": "rib-5-r",
+    "name": "Costilla 5",
+    "latin": "Costa 5 · dextra",
+    "english": "Fifth rib",
+    "region": "thorax",
+    "kind": "plano",
+    "description": "Costilla verdadera: conecta con el esternón a través de su propio cartílago costal.",
+    "landmarks": [
+      "Cabeza",
+      "Cuello",
+      "Tubérculo",
+      "Ángulo",
+      "Cuerpo",
+      "Surco costal"
+    ],
+    "articulations": [
+      "Vértebras torácicas",
+      "Esternón mediante cartílago costal"
+    ],
+    "side": "r",
+    "division": "axial",
+    "sources": [
+      "Fifth rib.r"
+    ]
+  },
+  {
+    "id": "rib-5-l",
+    "name": "Costilla 5",
+    "latin": "Costa 5 · sinistra",
+    "english": "Fifth rib",
+    "region": "thorax",
+    "kind": "plano",
+    "description": "Costilla verdadera: conecta con el esternón a través de su propio cartílago costal.",
+    "landmarks": [
+      "Cabeza",
+      "Cuello",
+      "Tubérculo",
+      "Ángulo",
+      "Cuerpo",
+      "Surco costal"
+    ],
+    "articulations": [
+      "Vértebras torácicas",
+      "Esternón mediante cartílago costal"
+    ],
+    "side": "l",
+    "division": "axial",
+    "sources": [
+      "Fifth rib.l"
+    ]
+  },
+  {
+    "id": "rib-6-r",
+    "name": "Costilla 6",
+    "latin": "Costa 6 · dextra",
+    "english": "Sixth rib",
+    "region": "thorax",
+    "kind": "plano",
+    "description": "Costilla verdadera: conecta con el esternón a través de su propio cartílago costal.",
+    "landmarks": [
+      "Cabeza",
+      "Cuello",
+      "Tubérculo",
+      "Ángulo",
+      "Cuerpo",
+      "Surco costal"
+    ],
+    "articulations": [
+      "Vértebras torácicas",
+      "Esternón mediante cartílago costal"
+    ],
+    "side": "r",
+    "division": "axial",
+    "sources": [
+      "Sixth rib.r"
+    ]
+  },
+  {
+    "id": "rib-6-l",
+    "name": "Costilla 6",
+    "latin": "Costa 6 · sinistra",
+    "english": "Sixth rib",
+    "region": "thorax",
+    "kind": "plano",
+    "description": "Costilla verdadera: conecta con el esternón a través de su propio cartílago costal.",
+    "landmarks": [
+      "Cabeza",
+      "Cuello",
+      "Tubérculo",
+      "Ángulo",
+      "Cuerpo",
+      "Surco costal"
+    ],
+    "articulations": [
+      "Vértebras torácicas",
+      "Esternón mediante cartílago costal"
+    ],
+    "side": "l",
+    "division": "axial",
+    "sources": [
+      "Sixth rib.l"
+    ]
+  },
+  {
+    "id": "rib-7-r",
+    "name": "Costilla 7",
+    "latin": "Costa 7 · dextra",
+    "english": "Seventh rib",
+    "region": "thorax",
+    "kind": "plano",
+    "description": "Costilla verdadera: conecta con el esternón a través de su propio cartílago costal.",
+    "landmarks": [
+      "Cabeza",
+      "Cuello",
+      "Tubérculo",
+      "Ángulo",
+      "Cuerpo",
+      "Surco costal"
+    ],
+    "articulations": [
+      "Vértebras torácicas",
+      "Esternón mediante cartílago costal"
+    ],
+    "side": "r",
+    "division": "axial",
+    "sources": [
+      "Seventh rib.r"
+    ]
+  },
+  {
+    "id": "rib-7-l",
+    "name": "Costilla 7",
+    "latin": "Costa 7 · sinistra",
+    "english": "Seventh rib",
+    "region": "thorax",
+    "kind": "plano",
+    "description": "Costilla verdadera: conecta con el esternón a través de su propio cartílago costal.",
+    "landmarks": [
+      "Cabeza",
+      "Cuello",
+      "Tubérculo",
+      "Ángulo",
+      "Cuerpo",
+      "Surco costal"
+    ],
+    "articulations": [
+      "Vértebras torácicas",
+      "Esternón mediante cartílago costal"
+    ],
+    "side": "l",
+    "division": "axial",
+    "sources": [
+      "Seventh rib.l"
+    ]
+  },
+  {
+    "id": "rib-8-r",
+    "name": "Costilla 8",
+    "latin": "Costa 8 · dextra",
+    "english": "Eighth rib",
+    "region": "thorax",
+    "kind": "plano",
+    "description": "Costilla falsa: su cartílago se une al cartílago de la costilla superior.",
+    "landmarks": [
+      "Cabeza",
+      "Cuello",
+      "Tubérculo",
+      "Ángulo",
+      "Cuerpo",
+      "Surco costal"
+    ],
+    "articulations": [
+      "Vértebras torácicas"
+    ],
+    "side": "r",
+    "division": "axial",
+    "sources": [
+      "Eighth rib.r"
+    ]
+  },
+  {
+    "id": "rib-8-l",
+    "name": "Costilla 8",
+    "latin": "Costa 8 · sinistra",
+    "english": "Eighth rib",
+    "region": "thorax",
+    "kind": "plano",
+    "description": "Costilla falsa: su cartílago se une al cartílago de la costilla superior.",
+    "landmarks": [
+      "Cabeza",
+      "Cuello",
+      "Tubérculo",
+      "Ángulo",
+      "Cuerpo",
+      "Surco costal"
+    ],
+    "articulations": [
+      "Vértebras torácicas"
+    ],
+    "side": "l",
+    "division": "axial",
+    "sources": [
+      "Eighth rib.l"
+    ]
+  },
+  {
+    "id": "rib-9-r",
+    "name": "Costilla 9",
+    "latin": "Costa 9 · dextra",
+    "english": "Ninth rib",
+    "region": "thorax",
+    "kind": "plano",
+    "description": "Costilla falsa: su cartílago se une al cartílago de la costilla superior.",
+    "landmarks": [
+      "Cabeza",
+      "Cuello",
+      "Tubérculo",
+      "Ángulo",
+      "Cuerpo",
+      "Surco costal"
+    ],
+    "articulations": [
+      "Vértebras torácicas"
+    ],
+    "side": "r",
+    "division": "axial",
+    "sources": [
+      "Ninth rib.r"
+    ]
+  },
+  {
+    "id": "rib-9-l",
+    "name": "Costilla 9",
+    "latin": "Costa 9 · sinistra",
+    "english": "Ninth rib",
+    "region": "thorax",
+    "kind": "plano",
+    "description": "Costilla falsa: su cartílago se une al cartílago de la costilla superior.",
+    "landmarks": [
+      "Cabeza",
+      "Cuello",
+      "Tubérculo",
+      "Ángulo",
+      "Cuerpo",
+      "Surco costal"
+    ],
+    "articulations": [
+      "Vértebras torácicas"
+    ],
+    "side": "l",
+    "division": "axial",
+    "sources": [
+      "Ninth rib.l"
+    ]
+  },
+  {
+    "id": "rib-10-r",
+    "name": "Costilla 10",
+    "latin": "Costa 10 · dextra",
+    "english": "Tenth rib",
+    "region": "thorax",
+    "kind": "plano",
+    "description": "Costilla falsa: su cartílago se une al cartílago de la costilla superior.",
+    "landmarks": [
+      "Cabeza",
+      "Cuello",
+      "Tubérculo",
+      "Ángulo",
+      "Cuerpo",
+      "Surco costal"
+    ],
+    "articulations": [
+      "Vértebras torácicas"
+    ],
+    "side": "r",
+    "division": "axial",
+    "sources": [
+      "Tenth rib.r"
+    ]
+  },
+  {
+    "id": "rib-10-l",
+    "name": "Costilla 10",
+    "latin": "Costa 10 · sinistra",
+    "english": "Tenth rib",
+    "region": "thorax",
+    "kind": "plano",
+    "description": "Costilla falsa: su cartílago se une al cartílago de la costilla superior.",
+    "landmarks": [
+      "Cabeza",
+      "Cuello",
+      "Tubérculo",
+      "Ángulo",
+      "Cuerpo",
+      "Surco costal"
+    ],
+    "articulations": [
+      "Vértebras torácicas"
+    ],
+    "side": "l",
+    "division": "axial",
+    "sources": [
+      "Tenth rib.l"
+    ]
+  },
+  {
+    "id": "rib-11-r",
+    "name": "Costilla 11",
+    "latin": "Costa 11 · dextra",
+    "english": "Eleventh rib",
+    "region": "thorax",
+    "kind": "plano",
+    "description": "Costilla flotante: su extremo anterior no se une al esternón.",
+    "landmarks": [
+      "Cabeza",
+      "Cuerpo",
+      "Ángulo poco marcado",
+      "Surco costal poco marcado"
+    ],
+    "articulations": [
+      "Vértebras torácicas"
+    ],
+    "side": "r",
+    "division": "axial",
+    "sources": [
+      "Eleventh rib.r"
+    ]
+  },
+  {
+    "id": "rib-11-l",
+    "name": "Costilla 11",
+    "latin": "Costa 11 · sinistra",
+    "english": "Eleventh rib",
+    "region": "thorax",
+    "kind": "plano",
+    "description": "Costilla flotante: su extremo anterior no se une al esternón.",
+    "landmarks": [
+      "Cabeza",
+      "Cuerpo",
+      "Ángulo poco marcado",
+      "Surco costal poco marcado"
+    ],
+    "articulations": [
+      "Vértebras torácicas"
+    ],
+    "side": "l",
+    "division": "axial",
+    "sources": [
+      "Eleventh rib.l"
+    ]
+  },
+  {
+    "id": "rib-12-r",
+    "name": "Costilla 12",
+    "latin": "Costa 12 · dextra",
+    "english": "Twelfth rib",
+    "region": "thorax",
+    "kind": "plano",
+    "description": "Costilla flotante: su extremo anterior no se une al esternón.",
+    "landmarks": [
+      "Cabeza",
+      "Cuerpo",
+      "Extremo anterior"
+    ],
+    "articulations": [
+      "Vértebras torácicas"
+    ],
+    "side": "r",
+    "division": "axial",
+    "sources": [
+      "Twelfth rib.r"
+    ]
+  },
+  {
+    "id": "rib-12-l",
+    "name": "Costilla 12",
+    "latin": "Costa 12 · sinistra",
+    "english": "Twelfth rib",
+    "region": "thorax",
+    "kind": "plano",
+    "description": "Costilla flotante: su extremo anterior no se une al esternón.",
+    "landmarks": [
+      "Cabeza",
+      "Cuerpo",
+      "Extremo anterior"
+    ],
+    "articulations": [
+      "Vértebras torácicas"
+    ],
+    "side": "l",
+    "division": "axial",
+    "sources": [
+      "Twelfth rib.l"
+    ]
+  },
+  {
+    "id": "sternum",
+    "name": "Esternón",
+    "latin": "Sternum",
+    "english": "Sternum",
+    "region": "thorax",
+    "kind": "plano",
+    "description": "Hueso anterior del tórax que protege estructuras mediastínicas. El recuento convencional adulto lo considera un solo hueso.",
+    "landmarks": [
+      "Manubrio",
+      "Cuerpo",
+      "Apófisis xifoides",
+      "Ángulo esternal",
+      "Incisura yugular",
+      "Incisuras claviculares"
+    ],
+    "articulations": [
+      "Clavículas",
+      "Cartílagos de las siete primeras costillas"
+    ],
+    "side": null,
+    "division": "axial",
+    "sources": [
+      "Manubrium of sternum",
+      "Body of sternum",
+      "Xiphoid process"
+    ]
+  },
+  {
+    "id": "clavicle-r",
+    "name": "Clavícula",
+    "latin": "Clavicula · dextra",
+    "english": "Clavicle",
+    "region": "shoulder",
+    "kind": "largo",
+    "description": "Conecta el miembro superior con el esqueleto axial y mantiene el hombro separado del tórax.",
+    "landmarks": [
+      "Extremo esternal",
+      "Extremo acromial",
+      "Tubérculo conoideo",
+      "Línea trapezoidea",
+      "Surco del músculo subclavio"
+    ],
+    "articulations": [
+      "Esternón",
+      "Escápula"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Clavicle.r"
+    ]
+  },
+  {
+    "id": "clavicle-l",
+    "name": "Clavícula",
+    "latin": "Clavicula · sinistra",
+    "english": "Clavicle",
+    "region": "shoulder",
+    "kind": "largo",
+    "description": "Conecta el miembro superior con el esqueleto axial y mantiene el hombro separado del tórax.",
+    "landmarks": [
+      "Extremo esternal",
+      "Extremo acromial",
+      "Tubérculo conoideo",
+      "Línea trapezoidea",
+      "Surco del músculo subclavio"
+    ],
+    "articulations": [
+      "Esternón",
+      "Escápula"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Clavicle.l"
+    ]
+  },
+  {
+    "id": "scapula-r",
+    "name": "Escápula",
+    "latin": "Scapula · dextra",
+    "english": "Scapula",
+    "region": "shoulder",
+    "kind": "plano",
+    "description": "Hueso triangular posterior del hombro que proporciona la cavidad articular para el húmero.",
+    "landmarks": [
+      "Espina",
+      "Acromion",
+      "Apófisis coracoides",
+      "Cavidad glenoidea",
+      "Fosa supraespinosa",
+      "Fosa infraespinosa",
+      "Fosa subescapular",
+      "Ángulo inferior"
+    ],
+    "articulations": [
+      "Clavícula",
+      "Húmero"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Scapula.r"
+    ]
+  },
+  {
+    "id": "scapula-l",
+    "name": "Escápula",
+    "latin": "Scapula · sinistra",
+    "english": "Scapula",
+    "region": "shoulder",
+    "kind": "plano",
+    "description": "Hueso triangular posterior del hombro que proporciona la cavidad articular para el húmero.",
+    "landmarks": [
+      "Espina",
+      "Acromion",
+      "Apófisis coracoides",
+      "Cavidad glenoidea",
+      "Fosa supraespinosa",
+      "Fosa infraespinosa",
+      "Fosa subescapular",
+      "Ángulo inferior"
+    ],
+    "articulations": [
+      "Clavícula",
+      "Húmero"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Scapula.l"
+    ]
+  },
+  {
+    "id": "humerus-r",
+    "name": "Húmero",
+    "latin": "Humerus · dexter",
+    "english": "Humerus",
+    "region": "arm",
+    "kind": "largo",
+    "description": "Hueso del brazo. Une el hombro con el codo y actúa como palanca para los músculos del miembro superior.",
+    "landmarks": [
+      "Cabeza",
+      "Cuello anatómico",
+      "Cuello quirúrgico",
+      "Tubérculo mayor",
+      "Tubérculo menor",
+      "Surco intertubercular",
+      "Tuberosidad deltoidea",
+      "Tróclea",
+      "Capítulo",
+      "Epicóndilos",
+      "Fosa olecraniana"
+    ],
+    "articulations": [
+      "Escápula",
+      "Radio",
+      "Ulna"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Humerus.r"
+    ]
+  },
+  {
+    "id": "humerus-l",
+    "name": "Húmero",
+    "latin": "Humerus · sinister",
+    "english": "Humerus",
+    "region": "arm",
+    "kind": "largo",
+    "description": "Hueso del brazo. Une el hombro con el codo y actúa como palanca para los músculos del miembro superior.",
+    "landmarks": [
+      "Cabeza",
+      "Cuello anatómico",
+      "Cuello quirúrgico",
+      "Tubérculo mayor",
+      "Tubérculo menor",
+      "Surco intertubercular",
+      "Tuberosidad deltoidea",
+      "Tróclea",
+      "Capítulo",
+      "Epicóndilos",
+      "Fosa olecraniana"
+    ],
+    "articulations": [
+      "Escápula",
+      "Radio",
+      "Ulna"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Humerus.l"
+    ]
+  },
+  {
+    "id": "radius-r",
+    "name": "Radio",
+    "latin": "Radius · dexter",
+    "english": "Radius",
+    "region": "arm",
+    "kind": "largo",
+    "description": "Hueso lateral del antebrazo en posición anatómica. Gira alrededor de la ulna durante la pronación y la supinación.",
+    "landmarks": [
+      "Cabeza",
+      "Cuello",
+      "Tuberosidad del radio",
+      "Apófisis estiloides",
+      "Incisura ulnar",
+      "Tubérculo dorsal"
+    ],
+    "articulations": [
+      "Húmero",
+      "Ulna",
+      "Escafoides",
+      "Semilunar"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Radius.r"
+    ]
+  },
+  {
+    "id": "radius-l",
+    "name": "Radio",
+    "latin": "Radius · sinister",
+    "english": "Radius",
+    "region": "arm",
+    "kind": "largo",
+    "description": "Hueso lateral del antebrazo en posición anatómica. Gira alrededor de la ulna durante la pronación y la supinación.",
+    "landmarks": [
+      "Cabeza",
+      "Cuello",
+      "Tuberosidad del radio",
+      "Apófisis estiloides",
+      "Incisura ulnar",
+      "Tubérculo dorsal"
+    ],
+    "articulations": [
+      "Húmero",
+      "Ulna",
+      "Escafoides",
+      "Semilunar"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Radius.l"
+    ]
+  },
+  {
+    "id": "ulna-r",
+    "name": "Ulna (cúbito)",
+    "latin": "Ulna · dextra",
+    "english": "Ulna",
+    "region": "arm",
+    "kind": "largo",
+    "description": "Hueso medial del antebrazo en posición anatómica. El olécranon forma la prominencia posterior del codo.",
+    "landmarks": [
+      "Olécranon",
+      "Apófisis coronoides",
+      "Incisura troclear",
+      "Incisura radial",
+      "Tuberosidad de la ulna",
+      "Cabeza",
+      "Apófisis estiloides"
+    ],
+    "articulations": [
+      "Húmero",
+      "Radio"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Ulna.r"
+    ]
+  },
+  {
+    "id": "ulna-l",
+    "name": "Ulna (cúbito)",
+    "latin": "Ulna · sinistra",
+    "english": "Ulna",
+    "region": "arm",
+    "kind": "largo",
+    "description": "Hueso medial del antebrazo en posición anatómica. El olécranon forma la prominencia posterior del codo.",
+    "landmarks": [
+      "Olécranon",
+      "Apófisis coronoides",
+      "Incisura troclear",
+      "Incisura radial",
+      "Tuberosidad de la ulna",
+      "Cabeza",
+      "Apófisis estiloides"
+    ],
+    "articulations": [
+      "Húmero",
+      "Radio"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Ulna.l"
+    ]
+  },
+  {
+    "id": "scaphoid-r",
+    "name": "Escafoides",
+    "latin": "Os scaphoideum · dextrum",
+    "english": "Scaphoid bone",
+    "region": "hand",
+    "kind": "corto",
+    "description": "Uno de los ocho huesos del carpo. Participa en la estabilidad y la movilidad de la muñeca.",
+    "landmarks": [
+      "Caras articulares",
+      "Cara palmar",
+      "Cara dorsal"
+    ],
+    "articulations": [
+      "Huesos vecinos del carpo; relaciones específicas según su posición"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Scaphoid bone.r"
+    ]
+  },
+  {
+    "id": "scaphoid-l",
+    "name": "Escafoides",
+    "latin": "Os scaphoideum · sinistrum",
+    "english": "Scaphoid bone",
+    "region": "hand",
+    "kind": "corto",
+    "description": "Uno de los ocho huesos del carpo. Participa en la estabilidad y la movilidad de la muñeca.",
+    "landmarks": [
+      "Caras articulares",
+      "Cara palmar",
+      "Cara dorsal"
+    ],
+    "articulations": [
+      "Huesos vecinos del carpo; relaciones específicas según su posición"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Scaphoid bone.l"
+    ]
+  },
+  {
+    "id": "lunate-r",
+    "name": "Semilunar",
+    "latin": "Os lunatum · dextrum",
+    "english": "Lunate bone",
+    "region": "hand",
+    "kind": "corto",
+    "description": "Uno de los ocho huesos del carpo. Participa en la estabilidad y la movilidad de la muñeca.",
+    "landmarks": [
+      "Caras articulares",
+      "Cara palmar",
+      "Cara dorsal"
+    ],
+    "articulations": [
+      "Huesos vecinos del carpo; relaciones específicas según su posición"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Lunate bone.r"
+    ]
+  },
+  {
+    "id": "lunate-l",
+    "name": "Semilunar",
+    "latin": "Os lunatum · sinistrum",
+    "english": "Lunate bone",
+    "region": "hand",
+    "kind": "corto",
+    "description": "Uno de los ocho huesos del carpo. Participa en la estabilidad y la movilidad de la muñeca.",
+    "landmarks": [
+      "Caras articulares",
+      "Cara palmar",
+      "Cara dorsal"
+    ],
+    "articulations": [
+      "Huesos vecinos del carpo; relaciones específicas según su posición"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Lunate bone.l"
+    ]
+  },
+  {
+    "id": "triquetrum-r",
+    "name": "Piramidal",
+    "latin": "Os triquetrum · dextrum",
+    "english": "Triquetrum bone",
+    "region": "hand",
+    "kind": "corto",
+    "description": "Uno de los ocho huesos del carpo. Participa en la estabilidad y la movilidad de la muñeca.",
+    "landmarks": [
+      "Caras articulares",
+      "Cara palmar",
+      "Cara dorsal"
+    ],
+    "articulations": [
+      "Huesos vecinos del carpo; relaciones específicas según su posición"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Triquetrum bone.r"
+    ]
+  },
+  {
+    "id": "triquetrum-l",
+    "name": "Piramidal",
+    "latin": "Os triquetrum · sinistrum",
+    "english": "Triquetrum bone",
+    "region": "hand",
+    "kind": "corto",
+    "description": "Uno de los ocho huesos del carpo. Participa en la estabilidad y la movilidad de la muñeca.",
+    "landmarks": [
+      "Caras articulares",
+      "Cara palmar",
+      "Cara dorsal"
+    ],
+    "articulations": [
+      "Huesos vecinos del carpo; relaciones específicas según su posición"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Triquetrum bone.l"
+    ]
+  },
+  {
+    "id": "pisiform-r",
+    "name": "Pisiforme",
+    "latin": "Os pisiforme · dextrum",
+    "english": "Pisiform bone",
+    "region": "hand",
+    "kind": "sesamoideo",
+    "description": "Uno de los ocho huesos del carpo. Participa en la estabilidad y la movilidad de la muñeca.",
+    "landmarks": [
+      "Caras articulares",
+      "Cara palmar",
+      "Cara dorsal"
+    ],
+    "articulations": [
+      "Huesos vecinos del carpo; relaciones específicas según su posición"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Pisiform bone.r"
+    ]
+  },
+  {
+    "id": "pisiform-l",
+    "name": "Pisiforme",
+    "latin": "Os pisiforme · sinistrum",
+    "english": "Pisiform bone",
+    "region": "hand",
+    "kind": "sesamoideo",
+    "description": "Uno de los ocho huesos del carpo. Participa en la estabilidad y la movilidad de la muñeca.",
+    "landmarks": [
+      "Caras articulares",
+      "Cara palmar",
+      "Cara dorsal"
+    ],
+    "articulations": [
+      "Huesos vecinos del carpo; relaciones específicas según su posición"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Pisiform bone.l"
+    ]
+  },
+  {
+    "id": "trapezium-r",
+    "name": "Trapecio",
+    "latin": "Os trapezium · dextrum",
+    "english": "Trapezium bone",
+    "region": "hand",
+    "kind": "corto",
+    "description": "Uno de los ocho huesos del carpo. Participa en la estabilidad y la movilidad de la muñeca.",
+    "landmarks": [
+      "Caras articulares",
+      "Cara palmar",
+      "Cara dorsal"
+    ],
+    "articulations": [
+      "Huesos vecinos del carpo; relaciones específicas según su posición"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Trapezium bone.r"
+    ]
+  },
+  {
+    "id": "trapezium-l",
+    "name": "Trapecio",
+    "latin": "Os trapezium · sinistrum",
+    "english": "Trapezium bone",
+    "region": "hand",
+    "kind": "corto",
+    "description": "Uno de los ocho huesos del carpo. Participa en la estabilidad y la movilidad de la muñeca.",
+    "landmarks": [
+      "Caras articulares",
+      "Cara palmar",
+      "Cara dorsal"
+    ],
+    "articulations": [
+      "Huesos vecinos del carpo; relaciones específicas según su posición"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Trapezium bone.l"
+    ]
+  },
+  {
+    "id": "trapezoid-r",
+    "name": "Trapezoide",
+    "latin": "Os trapezoideum · dextrum",
+    "english": "Trapezoid bone",
+    "region": "hand",
+    "kind": "corto",
+    "description": "Uno de los ocho huesos del carpo. Participa en la estabilidad y la movilidad de la muñeca.",
+    "landmarks": [
+      "Caras articulares",
+      "Cara palmar",
+      "Cara dorsal"
+    ],
+    "articulations": [
+      "Huesos vecinos del carpo; relaciones específicas según su posición"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Trapezoid bone.r"
+    ]
+  },
+  {
+    "id": "trapezoid-l",
+    "name": "Trapezoide",
+    "latin": "Os trapezoideum · sinistrum",
+    "english": "Trapezoid bone",
+    "region": "hand",
+    "kind": "corto",
+    "description": "Uno de los ocho huesos del carpo. Participa en la estabilidad y la movilidad de la muñeca.",
+    "landmarks": [
+      "Caras articulares",
+      "Cara palmar",
+      "Cara dorsal"
+    ],
+    "articulations": [
+      "Huesos vecinos del carpo; relaciones específicas según su posición"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Trapezoid bone.l"
+    ]
+  },
+  {
+    "id": "capitate-r",
+    "name": "Grande",
+    "latin": "Os capitatum · dextrum",
+    "english": "Capitate bone",
+    "region": "hand",
+    "kind": "corto",
+    "description": "Uno de los ocho huesos del carpo. Participa en la estabilidad y la movilidad de la muñeca.",
+    "landmarks": [
+      "Caras articulares",
+      "Cara palmar",
+      "Cara dorsal"
+    ],
+    "articulations": [
+      "Huesos vecinos del carpo; relaciones específicas según su posición"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Capitate bone.r"
+    ]
+  },
+  {
+    "id": "capitate-l",
+    "name": "Grande",
+    "latin": "Os capitatum · sinistrum",
+    "english": "Capitate bone",
+    "region": "hand",
+    "kind": "corto",
+    "description": "Uno de los ocho huesos del carpo. Participa en la estabilidad y la movilidad de la muñeca.",
+    "landmarks": [
+      "Caras articulares",
+      "Cara palmar",
+      "Cara dorsal"
+    ],
+    "articulations": [
+      "Huesos vecinos del carpo; relaciones específicas según su posición"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Capitate bone.l"
+    ]
+  },
+  {
+    "id": "hamate-r",
+    "name": "Ganchoso",
+    "latin": "Os hamatum · dextrum",
+    "english": "Hamate bone",
+    "region": "hand",
+    "kind": "corto",
+    "description": "Uno de los ocho huesos del carpo. Participa en la estabilidad y la movilidad de la muñeca.",
+    "landmarks": [
+      "Caras articulares",
+      "Cara palmar",
+      "Cara dorsal"
+    ],
+    "articulations": [
+      "Huesos vecinos del carpo; relaciones específicas según su posición"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Hamate bone.r"
+    ]
+  },
+  {
+    "id": "hamate-l",
+    "name": "Ganchoso",
+    "latin": "Os hamatum · sinistrum",
+    "english": "Hamate bone",
+    "region": "hand",
+    "kind": "corto",
+    "description": "Uno de los ocho huesos del carpo. Participa en la estabilidad y la movilidad de la muñeca.",
+    "landmarks": [
+      "Caras articulares",
+      "Cara palmar",
+      "Cara dorsal"
+    ],
+    "articulations": [
+      "Huesos vecinos del carpo; relaciones específicas según su posición"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Hamate bone.l"
+    ]
+  },
+  {
+    "id": "metacarpal-1-r",
+    "name": "Metacarpiano 1",
+    "latin": "Os metacarpale 1 · dextrum",
+    "english": "First metacarpal bone",
+    "region": "hand",
+    "kind": "largo",
+    "description": "Forma el armazón de la palma y conecta el carpo con las falanges.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Carpo",
+      "Falange proximal correspondiente"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "First metacarpal bone.r"
+    ]
+  },
+  {
+    "id": "metacarpal-1-l",
+    "name": "Metacarpiano 1",
+    "latin": "Os metacarpale 1 · sinistrum",
+    "english": "First metacarpal bone",
+    "region": "hand",
+    "kind": "largo",
+    "description": "Forma el armazón de la palma y conecta el carpo con las falanges.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Carpo",
+      "Falange proximal correspondiente"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "First metacarpal bone.l"
+    ]
+  },
+  {
+    "id": "metacarpal-2-r",
+    "name": "Metacarpiano 2",
+    "latin": "Os metacarpale 2 · dextrum",
+    "english": "Second metacarpal bone",
+    "region": "hand",
+    "kind": "largo",
+    "description": "Forma el armazón de la palma y conecta el carpo con las falanges.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Carpo",
+      "Falange proximal correspondiente",
+      "Metacarpianos vecinos"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Second metacarpal bone.r"
+    ]
+  },
+  {
+    "id": "metacarpal-2-l",
+    "name": "Metacarpiano 2",
+    "latin": "Os metacarpale 2 · sinistrum",
+    "english": "Second metacarpal bone",
+    "region": "hand",
+    "kind": "largo",
+    "description": "Forma el armazón de la palma y conecta el carpo con las falanges.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Carpo",
+      "Falange proximal correspondiente",
+      "Metacarpianos vecinos"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Second metacarpal bone.l"
+    ]
+  },
+  {
+    "id": "metacarpal-3-r",
+    "name": "Metacarpiano 3",
+    "latin": "Os metacarpale 3 · dextrum",
+    "english": "Third metacarpal bone",
+    "region": "hand",
+    "kind": "largo",
+    "description": "Forma el armazón de la palma y conecta el carpo con las falanges.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Carpo",
+      "Falange proximal correspondiente",
+      "Metacarpianos vecinos"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Third metacarpal bone.r"
+    ]
+  },
+  {
+    "id": "metacarpal-3-l",
+    "name": "Metacarpiano 3",
+    "latin": "Os metacarpale 3 · sinistrum",
+    "english": "Third metacarpal bone",
+    "region": "hand",
+    "kind": "largo",
+    "description": "Forma el armazón de la palma y conecta el carpo con las falanges.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Carpo",
+      "Falange proximal correspondiente",
+      "Metacarpianos vecinos"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Third metacarpal bone.l"
+    ]
+  },
+  {
+    "id": "metacarpal-4-r",
+    "name": "Metacarpiano 4",
+    "latin": "Os metacarpale 4 · dextrum",
+    "english": "Fourth metacarpal bone",
+    "region": "hand",
+    "kind": "largo",
+    "description": "Forma el armazón de la palma y conecta el carpo con las falanges.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Carpo",
+      "Falange proximal correspondiente",
+      "Metacarpianos vecinos"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Fourth metacarpal bone.r"
+    ]
+  },
+  {
+    "id": "metacarpal-4-l",
+    "name": "Metacarpiano 4",
+    "latin": "Os metacarpale 4 · sinistrum",
+    "english": "Fourth metacarpal bone",
+    "region": "hand",
+    "kind": "largo",
+    "description": "Forma el armazón de la palma y conecta el carpo con las falanges.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Carpo",
+      "Falange proximal correspondiente",
+      "Metacarpianos vecinos"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Fourth metacarpal bone.l"
+    ]
+  },
+  {
+    "id": "metacarpal-5-r",
+    "name": "Metacarpiano 5",
+    "latin": "Os metacarpale 5 · dextrum",
+    "english": "Fifth metacarpal bone",
+    "region": "hand",
+    "kind": "largo",
+    "description": "Forma el armazón de la palma y conecta el carpo con las falanges.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Carpo",
+      "Falange proximal correspondiente",
+      "Metacarpianos vecinos"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Fifth metacarpal bone.r"
+    ]
+  },
+  {
+    "id": "metacarpal-5-l",
+    "name": "Metacarpiano 5",
+    "latin": "Os metacarpale 5 · sinistrum",
+    "english": "Fifth metacarpal bone",
+    "region": "hand",
+    "kind": "largo",
+    "description": "Forma el armazón de la palma y conecta el carpo con las falanges.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Carpo",
+      "Falange proximal correspondiente",
+      "Metacarpianos vecinos"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Fifth metacarpal bone.l"
+    ]
+  },
+  {
+    "id": "hip-r",
+    "name": "Coxal",
+    "latin": "Os coxae · dextrum",
+    "english": "Hip bone",
+    "region": "pelvis",
+    "kind": "irregular",
+    "description": "Hueso formado por la fusión del ilion, isquion y pubis. Ambos coxales constituyen la cintura pélvica.",
+    "landmarks": [
+      "Ilion",
+      "Cresta ilíaca",
+      "Espinas ilíacas",
+      "Acetábulo",
+      "Foramen obturador",
+      "Isquion",
+      "Tuberosidad isquiática",
+      "Pubis",
+      "Superficie sinfisaria"
+    ],
+    "articulations": [
+      "Sacro",
+      "Fémur",
+      "Coxal contralateral mediante la sínfisis púbica"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Hip bone.r"
+    ]
+  },
+  {
+    "id": "hip-l",
+    "name": "Coxal",
+    "latin": "Os coxae · sinistrum",
+    "english": "Hip bone",
+    "region": "pelvis",
+    "kind": "irregular",
+    "description": "Hueso formado por la fusión del ilion, isquion y pubis. Ambos coxales constituyen la cintura pélvica.",
+    "landmarks": [
+      "Ilion",
+      "Cresta ilíaca",
+      "Espinas ilíacas",
+      "Acetábulo",
+      "Foramen obturador",
+      "Isquion",
+      "Tuberosidad isquiática",
+      "Pubis",
+      "Superficie sinfisaria"
+    ],
+    "articulations": [
+      "Sacro",
+      "Fémur",
+      "Coxal contralateral mediante la sínfisis púbica"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Hip bone.l"
+    ]
+  },
+  {
+    "id": "femur-r",
+    "name": "Fémur",
+    "latin": "Femur · dextrum",
+    "english": "Femur",
+    "region": "leg",
+    "kind": "largo",
+    "description": "El hueso más largo y resistente del cuerpo humano. Forma el esqueleto del muslo y transmite el peso desde la cadera hasta la rodilla.",
+    "landmarks": [
+      "Cabeza femoral",
+      "Fóvea de la cabeza",
+      "Cuello femoral",
+      "Trocánter mayor",
+      "Trocánter menor",
+      "Línea intertrocantérica",
+      "Cresta intertrocantérica",
+      "Línea áspera",
+      "Cóndilo medial",
+      "Cóndilo lateral",
+      "Fosa intercondílea",
+      "Superficie patelar"
+    ],
+    "articulations": [
+      "Coxal",
+      "Tibia",
+      "Rótula"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Femur.r"
+    ]
+  },
+  {
+    "id": "femur-l",
+    "name": "Fémur",
+    "latin": "Femur · sinistrum",
+    "english": "Femur",
+    "region": "leg",
+    "kind": "largo",
+    "description": "El hueso más largo y resistente del cuerpo humano. Forma el esqueleto del muslo y transmite el peso desde la cadera hasta la rodilla.",
+    "landmarks": [
+      "Cabeza femoral",
+      "Fóvea de la cabeza",
+      "Cuello femoral",
+      "Trocánter mayor",
+      "Trocánter menor",
+      "Línea intertrocantérica",
+      "Cresta intertrocantérica",
+      "Línea áspera",
+      "Cóndilo medial",
+      "Cóndilo lateral",
+      "Fosa intercondílea",
+      "Superficie patelar"
+    ],
+    "articulations": [
+      "Coxal",
+      "Tibia",
+      "Rótula"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Femur.l"
+    ]
+  },
+  {
+    "id": "patella-r",
+    "name": "Rótula",
+    "latin": "Patella · dextra",
+    "english": "Patella",
+    "region": "leg",
+    "kind": "sesamoideo",
+    "description": "Hueso sesamoideo incluido en el tendón del cuádriceps. Protege la rodilla y aumenta la eficacia de la extensión.",
+    "landmarks": [
+      "Base",
+      "Vértice",
+      "Cara anterior",
+      "Cara articular posterior"
+    ],
+    "articulations": [
+      "Fémur"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Patella.r"
+    ]
+  },
+  {
+    "id": "patella-l",
+    "name": "Rótula",
+    "latin": "Patella · sinistra",
+    "english": "Patella",
+    "region": "leg",
+    "kind": "sesamoideo",
+    "description": "Hueso sesamoideo incluido en el tendón del cuádriceps. Protege la rodilla y aumenta la eficacia de la extensión.",
+    "landmarks": [
+      "Base",
+      "Vértice",
+      "Cara anterior",
+      "Cara articular posterior"
+    ],
+    "articulations": [
+      "Fémur"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Patella.l"
+    ]
+  },
+  {
+    "id": "tibia-r",
+    "name": "Tibia",
+    "latin": "Tibia · dextra",
+    "english": "Tibia",
+    "region": "leg",
+    "kind": "largo",
+    "description": "Hueso medial de la pierna que soporta la mayor parte de la carga entre la rodilla y el tobillo.",
+    "landmarks": [
+      "Cóndilo medial",
+      "Cóndilo lateral",
+      "Eminencia intercondílea",
+      "Tuberosidad tibial",
+      "Borde anterior",
+      "Maléolo medial",
+      "Incisura fibular"
+    ],
+    "articulations": [
+      "Fémur",
+      "Fíbula",
+      "Talus"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Tibia.r"
+    ]
+  },
+  {
+    "id": "tibia-l",
+    "name": "Tibia",
+    "latin": "Tibia · sinistra",
+    "english": "Tibia",
+    "region": "leg",
+    "kind": "largo",
+    "description": "Hueso medial de la pierna que soporta la mayor parte de la carga entre la rodilla y el tobillo.",
+    "landmarks": [
+      "Cóndilo medial",
+      "Cóndilo lateral",
+      "Eminencia intercondílea",
+      "Tuberosidad tibial",
+      "Borde anterior",
+      "Maléolo medial",
+      "Incisura fibular"
+    ],
+    "articulations": [
+      "Fémur",
+      "Fíbula",
+      "Talus"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Tibia.l"
+    ]
+  },
+  {
+    "id": "fibula-r",
+    "name": "Fíbula (peroné)",
+    "latin": "Fibula · dextra",
+    "english": "Fibula",
+    "region": "leg",
+    "kind": "largo",
+    "description": "Hueso lateral y delgado de la pierna. Sirve de inserción muscular y estabiliza la articulación del tobillo.",
+    "landmarks": [
+      "Cabeza",
+      "Cuello",
+      "Cuerpo",
+      "Maléolo lateral",
+      "Fosa maleolar"
+    ],
+    "articulations": [
+      "Tibia",
+      "Talus"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Fibula.r"
+    ]
+  },
+  {
+    "id": "fibula-l",
+    "name": "Fíbula (peroné)",
+    "latin": "Fibula · sinistra",
+    "english": "Fibula",
+    "region": "leg",
+    "kind": "largo",
+    "description": "Hueso lateral y delgado de la pierna. Sirve de inserción muscular y estabiliza la articulación del tobillo.",
+    "landmarks": [
+      "Cabeza",
+      "Cuello",
+      "Cuerpo",
+      "Maléolo lateral",
+      "Fosa maleolar"
+    ],
+    "articulations": [
+      "Tibia",
+      "Talus"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Fibula.l"
+    ]
+  },
+  {
+    "id": "talus-r",
+    "name": "Talus (astrágalo)",
+    "latin": "Talus · dexter",
+    "english": "Talus",
+    "region": "foot",
+    "kind": "corto",
+    "description": "Hueso del tarso que participa en la transmisión de cargas y en el mantenimiento de los arcos del pie.",
+    "landmarks": [
+      "Tróclea",
+      "Cuello",
+      "Cabeza",
+      "Apófisis posterior"
+    ],
+    "articulations": [
+      "Tibia",
+      "Fíbula",
+      "Calcáneo",
+      "Navicular"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Talus.r"
+    ]
+  },
+  {
+    "id": "talus-l",
+    "name": "Talus (astrágalo)",
+    "latin": "Talus · sinister",
+    "english": "Talus",
+    "region": "foot",
+    "kind": "corto",
+    "description": "Hueso del tarso que participa en la transmisión de cargas y en el mantenimiento de los arcos del pie.",
+    "landmarks": [
+      "Tróclea",
+      "Cuello",
+      "Cabeza",
+      "Apófisis posterior"
+    ],
+    "articulations": [
+      "Tibia",
+      "Fíbula",
+      "Calcáneo",
+      "Navicular"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Talus.l"
+    ]
+  },
+  {
+    "id": "calcaneus-r",
+    "name": "Calcáneo",
+    "latin": "Calcaneus · dexter",
+    "english": "Calcaneus",
+    "region": "foot",
+    "kind": "corto",
+    "description": "Hueso del tarso que participa en la transmisión de cargas y en el mantenimiento de los arcos del pie.",
+    "landmarks": [
+      "Tuberosidad del calcáneo",
+      "Sustentáculo del talus",
+      "Tróclea fibular"
+    ],
+    "articulations": [
+      "Talus",
+      "Cuboides"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Calcaneus.r"
+    ]
+  },
+  {
+    "id": "calcaneus-l",
+    "name": "Calcáneo",
+    "latin": "Calcaneus · sinister",
+    "english": "Calcaneus",
+    "region": "foot",
+    "kind": "corto",
+    "description": "Hueso del tarso que participa en la transmisión de cargas y en el mantenimiento de los arcos del pie.",
+    "landmarks": [
+      "Tuberosidad del calcáneo",
+      "Sustentáculo del talus",
+      "Tróclea fibular"
+    ],
+    "articulations": [
+      "Talus",
+      "Cuboides"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Calcaneus.l"
+    ]
+  },
+  {
+    "id": "navicular-r",
+    "name": "Navicular",
+    "latin": "Os naviculare · dextrum",
+    "english": "Navicular bone",
+    "region": "foot",
+    "kind": "corto",
+    "description": "Hueso del tarso que participa en la transmisión de cargas y en el mantenimiento de los arcos del pie.",
+    "landmarks": [
+      "Tuberosidad del navicular",
+      "Cara proximal",
+      "Caras distales"
+    ],
+    "articulations": [
+      "Talus",
+      "Cuneiformes"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Navicular bone.r"
+    ]
+  },
+  {
+    "id": "navicular-l",
+    "name": "Navicular",
+    "latin": "Os naviculare · sinistrum",
+    "english": "Navicular bone",
+    "region": "foot",
+    "kind": "corto",
+    "description": "Hueso del tarso que participa en la transmisión de cargas y en el mantenimiento de los arcos del pie.",
+    "landmarks": [
+      "Tuberosidad del navicular",
+      "Cara proximal",
+      "Caras distales"
+    ],
+    "articulations": [
+      "Talus",
+      "Cuneiformes"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Navicular bone.l"
+    ]
+  },
+  {
+    "id": "cuboid-r",
+    "name": "Cuboides",
+    "latin": "Os cuboideum · dextrum",
+    "english": "Cuboid bone",
+    "region": "foot",
+    "kind": "corto",
+    "description": "Hueso del tarso que participa en la transmisión de cargas y en el mantenimiento de los arcos del pie.",
+    "landmarks": [
+      "Surco del tendón del fibular largo",
+      "Tuberosidad",
+      "Caras articulares"
+    ],
+    "articulations": [
+      "Calcáneo",
+      "Cuneiforme lateral",
+      "Metatarsianos 4 y 5"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Cuboid bone.r"
+    ]
+  },
+  {
+    "id": "cuboid-l",
+    "name": "Cuboides",
+    "latin": "Os cuboideum · sinistrum",
+    "english": "Cuboid bone",
+    "region": "foot",
+    "kind": "corto",
+    "description": "Hueso del tarso que participa en la transmisión de cargas y en el mantenimiento de los arcos del pie.",
+    "landmarks": [
+      "Surco del tendón del fibular largo",
+      "Tuberosidad",
+      "Caras articulares"
+    ],
+    "articulations": [
+      "Calcáneo",
+      "Cuneiforme lateral",
+      "Metatarsianos 4 y 5"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Cuboid bone.l"
+    ]
+  },
+  {
+    "id": "cuneiform-medial-r",
+    "name": "Cuneiforme medial",
+    "latin": "Os cuneiforme mediale · dextrum",
+    "english": "Medial cuneiform bone",
+    "region": "foot",
+    "kind": "corto",
+    "description": "Hueso del tarso que participa en la transmisión de cargas y en el mantenimiento de los arcos del pie.",
+    "landmarks": [
+      "Base",
+      "Vértice",
+      "Caras articulares"
+    ],
+    "articulations": [
+      "Navicular",
+      "Cuneiforme intermedio",
+      "Metatarsianos 1 y 2"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Medial cuneiform bone.r"
+    ]
+  },
+  {
+    "id": "cuneiform-medial-l",
+    "name": "Cuneiforme medial",
+    "latin": "Os cuneiforme mediale · sinistrum",
+    "english": "Medial cuneiform bone",
+    "region": "foot",
+    "kind": "corto",
+    "description": "Hueso del tarso que participa en la transmisión de cargas y en el mantenimiento de los arcos del pie.",
+    "landmarks": [
+      "Base",
+      "Vértice",
+      "Caras articulares"
+    ],
+    "articulations": [
+      "Navicular",
+      "Cuneiforme intermedio",
+      "Metatarsianos 1 y 2"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Medial cuneiform bone.l"
+    ]
+  },
+  {
+    "id": "cuneiform-intermediate-r",
+    "name": "Cuneiforme intermedio",
+    "latin": "Os cuneiforme intermedium · dextrum",
+    "english": "Intermediate cuneiform bone",
+    "region": "foot",
+    "kind": "corto",
+    "description": "Hueso del tarso que participa en la transmisión de cargas y en el mantenimiento de los arcos del pie.",
+    "landmarks": [
+      "Base",
+      "Vértice",
+      "Caras articulares"
+    ],
+    "articulations": [
+      "Navicular",
+      "Cuneiformes medial y lateral",
+      "Metatarsiano 2"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Intermediate cuneiform bone.r"
+    ]
+  },
+  {
+    "id": "cuneiform-intermediate-l",
+    "name": "Cuneiforme intermedio",
+    "latin": "Os cuneiforme intermedium · sinistrum",
+    "english": "Intermediate cuneiform bone",
+    "region": "foot",
+    "kind": "corto",
+    "description": "Hueso del tarso que participa en la transmisión de cargas y en el mantenimiento de los arcos del pie.",
+    "landmarks": [
+      "Base",
+      "Vértice",
+      "Caras articulares"
+    ],
+    "articulations": [
+      "Navicular",
+      "Cuneiformes medial y lateral",
+      "Metatarsiano 2"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Intermediate cuneiform bone.l"
+    ]
+  },
+  {
+    "id": "cuneiform-lateral-r",
+    "name": "Cuneiforme lateral",
+    "latin": "Os cuneiforme laterale · dextrum",
+    "english": "Lateral cuneiform bone",
+    "region": "foot",
+    "kind": "corto",
+    "description": "Hueso del tarso que participa en la transmisión de cargas y en el mantenimiento de los arcos del pie.",
+    "landmarks": [
+      "Base",
+      "Vértice",
+      "Caras articulares"
+    ],
+    "articulations": [
+      "Navicular",
+      "Cuboides",
+      "Cuneiforme intermedio",
+      "Metatarsianos 2, 3 y 4"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Lateral cuneiform bone.r"
+    ]
+  },
+  {
+    "id": "cuneiform-lateral-l",
+    "name": "Cuneiforme lateral",
+    "latin": "Os cuneiforme laterale · sinistrum",
+    "english": "Lateral cuneiform bone",
+    "region": "foot",
+    "kind": "corto",
+    "description": "Hueso del tarso que participa en la transmisión de cargas y en el mantenimiento de los arcos del pie.",
+    "landmarks": [
+      "Base",
+      "Vértice",
+      "Caras articulares"
+    ],
+    "articulations": [
+      "Navicular",
+      "Cuboides",
+      "Cuneiforme intermedio",
+      "Metatarsianos 2, 3 y 4"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Lateral cuneiform bone.l"
+    ]
+  },
+  {
+    "id": "metatarsal-1-r",
+    "name": "Metatarsiano 1",
+    "latin": "Os metatarsale 1 · dextrum",
+    "english": "First metatarsal bone",
+    "region": "foot",
+    "kind": "largo",
+    "description": "Hueso del metatarso que conecta el tarso con los dedos y participa en el apoyo y la propulsión.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Tarso",
+      "Falange proximal correspondiente",
+      "Metatarsianos vecinos"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "First metatarsal bone.r"
+    ]
+  },
+  {
+    "id": "metatarsal-1-l",
+    "name": "Metatarsiano 1",
+    "latin": "Os metatarsale 1 · sinistrum",
+    "english": "First metatarsal bone",
+    "region": "foot",
+    "kind": "largo",
+    "description": "Hueso del metatarso que conecta el tarso con los dedos y participa en el apoyo y la propulsión.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Tarso",
+      "Falange proximal correspondiente",
+      "Metatarsianos vecinos"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "First metatarsal bone.l"
+    ]
+  },
+  {
+    "id": "metatarsal-2-r",
+    "name": "Metatarsiano 2",
+    "latin": "Os metatarsale 2 · dextrum",
+    "english": "Second metatarsal bone",
+    "region": "foot",
+    "kind": "largo",
+    "description": "Hueso del metatarso que conecta el tarso con los dedos y participa en el apoyo y la propulsión.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Tarso",
+      "Falange proximal correspondiente",
+      "Metatarsianos vecinos"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Second metatarsal bone.r"
+    ]
+  },
+  {
+    "id": "metatarsal-2-l",
+    "name": "Metatarsiano 2",
+    "latin": "Os metatarsale 2 · sinistrum",
+    "english": "Second metatarsal bone",
+    "region": "foot",
+    "kind": "largo",
+    "description": "Hueso del metatarso que conecta el tarso con los dedos y participa en el apoyo y la propulsión.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Tarso",
+      "Falange proximal correspondiente",
+      "Metatarsianos vecinos"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Second metatarsal bone.l"
+    ]
+  },
+  {
+    "id": "metatarsal-3-r",
+    "name": "Metatarsiano 3",
+    "latin": "Os metatarsale 3 · dextrum",
+    "english": "Third metatarsal bone",
+    "region": "foot",
+    "kind": "largo",
+    "description": "Hueso del metatarso que conecta el tarso con los dedos y participa en el apoyo y la propulsión.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Tarso",
+      "Falange proximal correspondiente",
+      "Metatarsianos vecinos"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Third metatarsal bone.r"
+    ]
+  },
+  {
+    "id": "metatarsal-3-l",
+    "name": "Metatarsiano 3",
+    "latin": "Os metatarsale 3 · sinistrum",
+    "english": "Third metatarsal bone",
+    "region": "foot",
+    "kind": "largo",
+    "description": "Hueso del metatarso que conecta el tarso con los dedos y participa en el apoyo y la propulsión.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Tarso",
+      "Falange proximal correspondiente",
+      "Metatarsianos vecinos"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Third metatarsal bone.l"
+    ]
+  },
+  {
+    "id": "metatarsal-4-r",
+    "name": "Metatarsiano 4",
+    "latin": "Os metatarsale 4 · dextrum",
+    "english": "Fourth metatarsal bone",
+    "region": "foot",
+    "kind": "largo",
+    "description": "Hueso del metatarso que conecta el tarso con los dedos y participa en el apoyo y la propulsión.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Tarso",
+      "Falange proximal correspondiente",
+      "Metatarsianos vecinos"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Fourth metatarsal bone.r"
+    ]
+  },
+  {
+    "id": "metatarsal-4-l",
+    "name": "Metatarsiano 4",
+    "latin": "Os metatarsale 4 · sinistrum",
+    "english": "Fourth metatarsal bone",
+    "region": "foot",
+    "kind": "largo",
+    "description": "Hueso del metatarso que conecta el tarso con los dedos y participa en el apoyo y la propulsión.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Tarso",
+      "Falange proximal correspondiente",
+      "Metatarsianos vecinos"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Fourth metatarsal bone.l"
+    ]
+  },
+  {
+    "id": "metatarsal-5-r",
+    "name": "Metatarsiano 5",
+    "latin": "Os metatarsale 5 · dextrum",
+    "english": "Fifth metatarsal bone",
+    "region": "foot",
+    "kind": "largo",
+    "description": "Hueso del metatarso que conecta el tarso con los dedos y participa en el apoyo y la propulsión.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza",
+      "Tuberosidad del quinto metatarsiano"
+    ],
+    "articulations": [
+      "Tarso",
+      "Falange proximal correspondiente",
+      "Metatarsianos vecinos"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Fifth metatarsal bone.r"
+    ]
+  },
+  {
+    "id": "metatarsal-5-l",
+    "name": "Metatarsiano 5",
+    "latin": "Os metatarsale 5 · sinistrum",
+    "english": "Fifth metatarsal bone",
+    "region": "foot",
+    "kind": "largo",
+    "description": "Hueso del metatarso que conecta el tarso con los dedos y participa en el apoyo y la propulsión.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza",
+      "Tuberosidad del quinto metatarsiano"
+    ],
+    "articulations": [
+      "Tarso",
+      "Falange proximal correspondiente",
+      "Metatarsianos vecinos"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Fifth metatarsal bone.l"
+    ]
+  },
+  {
+    "id": "hand-phalanx-1-proximal-r",
+    "name": "Falange proximal · dedo 1",
+    "latin": "Phalanx proximalis digiti 1 manus · dextra",
+    "english": "Proximal phalanx of first finger of hand",
+    "region": "hand",
+    "kind": "largo",
+    "description": "Falange proximal del dedo 1 de la mano.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Metacarpiano correspondiente",
+      "Falange siguiente"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Proximal phalanx of first finger of hand.r"
+    ]
+  },
+  {
+    "id": "hand-phalanx-1-proximal-l",
+    "name": "Falange proximal · dedo 1",
+    "latin": "Phalanx proximalis digiti 1 manus · sinistra",
+    "english": "Proximal phalanx of first finger of hand",
+    "region": "hand",
+    "kind": "largo",
+    "description": "Falange proximal del dedo 1 de la mano.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Metacarpiano correspondiente",
+      "Falange siguiente"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Proximal phalanx of first finger of hand.l"
+    ]
+  },
+  {
+    "id": "hand-phalanx-1-distal-r",
+    "name": "Falange distal · dedo 1",
+    "latin": "Phalanx distalis digiti 1 manus · dextra",
+    "english": "Distal phalanx of first finger of hand",
+    "region": "hand",
+    "kind": "largo",
+    "description": "Falange distal del dedo 1 de la mano.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Tuberosidad de la falange distal"
+    ],
+    "articulations": [
+      "Falange precedente"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Distal phalanx of first finger of hand.r"
+    ]
+  },
+  {
+    "id": "hand-phalanx-1-distal-l",
+    "name": "Falange distal · dedo 1",
+    "latin": "Phalanx distalis digiti 1 manus · sinistra",
+    "english": "Distal phalanx of first finger of hand",
+    "region": "hand",
+    "kind": "largo",
+    "description": "Falange distal del dedo 1 de la mano.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Tuberosidad de la falange distal"
+    ],
+    "articulations": [
+      "Falange precedente"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Distal phalanx of first finger of hand.l"
+    ]
+  },
+  {
+    "id": "hand-phalanx-2-proximal-r",
+    "name": "Falange proximal · dedo 2",
+    "latin": "Phalanx proximalis digiti 2 manus · dextra",
+    "english": "Proximal phalanx of second finger of hand",
+    "region": "hand",
+    "kind": "largo",
+    "description": "Falange proximal del dedo 2 de la mano.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Metacarpiano correspondiente",
+      "Falange siguiente"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Proximal phalanx of second finger of hand.r"
+    ]
+  },
+  {
+    "id": "hand-phalanx-2-proximal-l",
+    "name": "Falange proximal · dedo 2",
+    "latin": "Phalanx proximalis digiti 2 manus · sinistra",
+    "english": "Proximal phalanx of second finger of hand",
+    "region": "hand",
+    "kind": "largo",
+    "description": "Falange proximal del dedo 2 de la mano.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Metacarpiano correspondiente",
+      "Falange siguiente"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Proximal phalanx of second finger of hand.l"
+    ]
+  },
+  {
+    "id": "hand-phalanx-2-middle-r",
+    "name": "Falange media · dedo 2",
+    "latin": "Phalanx media digiti 2 manus · dextra",
+    "english": "Middle phalanx of second finger of hand",
+    "region": "hand",
+    "kind": "largo",
+    "description": "Falange media del dedo 2 de la mano.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Falanges adyacentes"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Middle phalanx of second finger of hand.r"
+    ]
+  },
+  {
+    "id": "hand-phalanx-2-middle-l",
+    "name": "Falange media · dedo 2",
+    "latin": "Phalanx media digiti 2 manus · sinistra",
+    "english": "Middle phalanx of second finger of hand",
+    "region": "hand",
+    "kind": "largo",
+    "description": "Falange media del dedo 2 de la mano.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Falanges adyacentes"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Middle phalanx of second finger of hand.l"
+    ]
+  },
+  {
+    "id": "hand-phalanx-2-distal-r",
+    "name": "Falange distal · dedo 2",
+    "latin": "Phalanx distalis digiti 2 manus · dextra",
+    "english": "Distal phalanx of second finger of hand",
+    "region": "hand",
+    "kind": "largo",
+    "description": "Falange distal del dedo 2 de la mano.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Tuberosidad de la falange distal"
+    ],
+    "articulations": [
+      "Falange precedente"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Distal phalanx of second finger of hand.r"
+    ]
+  },
+  {
+    "id": "hand-phalanx-2-distal-l",
+    "name": "Falange distal · dedo 2",
+    "latin": "Phalanx distalis digiti 2 manus · sinistra",
+    "english": "Distal phalanx of second finger of hand",
+    "region": "hand",
+    "kind": "largo",
+    "description": "Falange distal del dedo 2 de la mano.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Tuberosidad de la falange distal"
+    ],
+    "articulations": [
+      "Falange precedente"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Distal phalanx of second finger of hand.l"
+    ]
+  },
+  {
+    "id": "hand-phalanx-3-proximal-r",
+    "name": "Falange proximal · dedo 3",
+    "latin": "Phalanx proximalis digiti 3 manus · dextra",
+    "english": "Proximal phalanx of third finger of hand",
+    "region": "hand",
+    "kind": "largo",
+    "description": "Falange proximal del dedo 3 de la mano.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Metacarpiano correspondiente",
+      "Falange siguiente"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Proximal phalanx of third finger of hand.r"
+    ]
+  },
+  {
+    "id": "hand-phalanx-3-proximal-l",
+    "name": "Falange proximal · dedo 3",
+    "latin": "Phalanx proximalis digiti 3 manus · sinistra",
+    "english": "Proximal phalanx of third finger of hand",
+    "region": "hand",
+    "kind": "largo",
+    "description": "Falange proximal del dedo 3 de la mano.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Metacarpiano correspondiente",
+      "Falange siguiente"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Proximal phalanx of third finger of hand.l"
+    ]
+  },
+  {
+    "id": "hand-phalanx-3-middle-r",
+    "name": "Falange media · dedo 3",
+    "latin": "Phalanx media digiti 3 manus · dextra",
+    "english": "Middle phalanx of third finger of hand",
+    "region": "hand",
+    "kind": "largo",
+    "description": "Falange media del dedo 3 de la mano.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Falanges adyacentes"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Middle phalanx of third finger of hand.r"
+    ]
+  },
+  {
+    "id": "hand-phalanx-3-middle-l",
+    "name": "Falange media · dedo 3",
+    "latin": "Phalanx media digiti 3 manus · sinistra",
+    "english": "Middle phalanx of third finger of hand",
+    "region": "hand",
+    "kind": "largo",
+    "description": "Falange media del dedo 3 de la mano.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Falanges adyacentes"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Middle phalanx of third finger of hand.l"
+    ]
+  },
+  {
+    "id": "hand-phalanx-3-distal-r",
+    "name": "Falange distal · dedo 3",
+    "latin": "Phalanx distalis digiti 3 manus · dextra",
+    "english": "Distal phalanx of third finger of hand",
+    "region": "hand",
+    "kind": "largo",
+    "description": "Falange distal del dedo 3 de la mano.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Tuberosidad de la falange distal"
+    ],
+    "articulations": [
+      "Falange precedente"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Distal phalanx of third finger of hand.r"
+    ]
+  },
+  {
+    "id": "hand-phalanx-3-distal-l",
+    "name": "Falange distal · dedo 3",
+    "latin": "Phalanx distalis digiti 3 manus · sinistra",
+    "english": "Distal phalanx of third finger of hand",
+    "region": "hand",
+    "kind": "largo",
+    "description": "Falange distal del dedo 3 de la mano.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Tuberosidad de la falange distal"
+    ],
+    "articulations": [
+      "Falange precedente"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Distal phalanx of third finger of hand.l"
+    ]
+  },
+  {
+    "id": "hand-phalanx-4-proximal-r",
+    "name": "Falange proximal · dedo 4",
+    "latin": "Phalanx proximalis digiti 4 manus · dextra",
+    "english": "Proximal phalanx of fourth finger of hand",
+    "region": "hand",
+    "kind": "largo",
+    "description": "Falange proximal del dedo 4 de la mano.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Metacarpiano correspondiente",
+      "Falange siguiente"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Proximal phalanx of fourth finger of hand.r"
+    ]
+  },
+  {
+    "id": "hand-phalanx-4-proximal-l",
+    "name": "Falange proximal · dedo 4",
+    "latin": "Phalanx proximalis digiti 4 manus · sinistra",
+    "english": "Proximal phalanx of fourth finger of hand",
+    "region": "hand",
+    "kind": "largo",
+    "description": "Falange proximal del dedo 4 de la mano.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Metacarpiano correspondiente",
+      "Falange siguiente"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Proximal phalanx of fourth finger of hand.l"
+    ]
+  },
+  {
+    "id": "hand-phalanx-4-middle-r",
+    "name": "Falange media · dedo 4",
+    "latin": "Phalanx media digiti 4 manus · dextra",
+    "english": "Middle phalanx of fourth finger of hand",
+    "region": "hand",
+    "kind": "largo",
+    "description": "Falange media del dedo 4 de la mano.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Falanges adyacentes"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Middle phalanx of fourth finger of hand.r"
+    ]
+  },
+  {
+    "id": "hand-phalanx-4-middle-l",
+    "name": "Falange media · dedo 4",
+    "latin": "Phalanx media digiti 4 manus · sinistra",
+    "english": "Middle phalanx of fourth finger of hand",
+    "region": "hand",
+    "kind": "largo",
+    "description": "Falange media del dedo 4 de la mano.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Falanges adyacentes"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Middle phalanx of fourth finger of hand.l"
+    ]
+  },
+  {
+    "id": "hand-phalanx-4-distal-r",
+    "name": "Falange distal · dedo 4",
+    "latin": "Phalanx distalis digiti 4 manus · dextra",
+    "english": "Distal phalanx of fourth finger of hand",
+    "region": "hand",
+    "kind": "largo",
+    "description": "Falange distal del dedo 4 de la mano.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Tuberosidad de la falange distal"
+    ],
+    "articulations": [
+      "Falange precedente"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Distal phalanx of fourth finger of hand.r"
+    ]
+  },
+  {
+    "id": "hand-phalanx-4-distal-l",
+    "name": "Falange distal · dedo 4",
+    "latin": "Phalanx distalis digiti 4 manus · sinistra",
+    "english": "Distal phalanx of fourth finger of hand",
+    "region": "hand",
+    "kind": "largo",
+    "description": "Falange distal del dedo 4 de la mano.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Tuberosidad de la falange distal"
+    ],
+    "articulations": [
+      "Falange precedente"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Distal phalanx of fourth finger of hand.l"
+    ]
+  },
+  {
+    "id": "hand-phalanx-5-proximal-r",
+    "name": "Falange proximal · dedo 5",
+    "latin": "Phalanx proximalis digiti 5 manus · dextra",
+    "english": "Proximal phalanx of fifth finger of hand",
+    "region": "hand",
+    "kind": "largo",
+    "description": "Falange proximal del dedo 5 de la mano.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Metacarpiano correspondiente",
+      "Falange siguiente"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Proximal phalanx of fifth finger of hand.r"
+    ]
+  },
+  {
+    "id": "hand-phalanx-5-proximal-l",
+    "name": "Falange proximal · dedo 5",
+    "latin": "Phalanx proximalis digiti 5 manus · sinistra",
+    "english": "Proximal phalanx of fifth finger of hand",
+    "region": "hand",
+    "kind": "largo",
+    "description": "Falange proximal del dedo 5 de la mano.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Metacarpiano correspondiente",
+      "Falange siguiente"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Proximal phalanx of fifth finger of hand.l"
+    ]
+  },
+  {
+    "id": "hand-phalanx-5-middle-r",
+    "name": "Falange media · dedo 5",
+    "latin": "Phalanx media digiti 5 manus · dextra",
+    "english": "Middle phalanx of fifth finger of hand",
+    "region": "hand",
+    "kind": "largo",
+    "description": "Falange media del dedo 5 de la mano.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Falanges adyacentes"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Middle phalanx of fifth finger of hand.r"
+    ]
+  },
+  {
+    "id": "hand-phalanx-5-middle-l",
+    "name": "Falange media · dedo 5",
+    "latin": "Phalanx media digiti 5 manus · sinistra",
+    "english": "Middle phalanx of fifth finger of hand",
+    "region": "hand",
+    "kind": "largo",
+    "description": "Falange media del dedo 5 de la mano.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Falanges adyacentes"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Middle phalanx of fifth finger of hand.l"
+    ]
+  },
+  {
+    "id": "hand-phalanx-5-distal-r",
+    "name": "Falange distal · dedo 5",
+    "latin": "Phalanx distalis digiti 5 manus · dextra",
+    "english": "Distal phalanx of fifth finger of hand",
+    "region": "hand",
+    "kind": "largo",
+    "description": "Falange distal del dedo 5 de la mano.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Tuberosidad de la falange distal"
+    ],
+    "articulations": [
+      "Falange precedente"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Distal phalanx of fifth finger of hand.r"
+    ]
+  },
+  {
+    "id": "hand-phalanx-5-distal-l",
+    "name": "Falange distal · dedo 5",
+    "latin": "Phalanx distalis digiti 5 manus · sinistra",
+    "english": "Distal phalanx of fifth finger of hand",
+    "region": "hand",
+    "kind": "largo",
+    "description": "Falange distal del dedo 5 de la mano.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Tuberosidad de la falange distal"
+    ],
+    "articulations": [
+      "Falange precedente"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Distal phalanx of fifth finger of hand.l"
+    ]
+  },
+  {
+    "id": "foot-phalanx-1-proximal-r",
+    "name": "Falange proximal · dedo 1",
+    "latin": "Phalanx proximalis digiti 1 pedis · dextra",
+    "english": "Proximal phalanx of first finger of foot",
+    "region": "foot",
+    "kind": "largo",
+    "description": "Falange proximal del dedo 1 del pie.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Metatarsiano correspondiente",
+      "Falange siguiente"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Proximal phalanx of first finger of foot.r"
+    ]
+  },
+  {
+    "id": "foot-phalanx-1-proximal-l",
+    "name": "Falange proximal · dedo 1",
+    "latin": "Phalanx proximalis digiti 1 pedis · sinistra",
+    "english": "Proximal phalanx of first finger of foot",
+    "region": "foot",
+    "kind": "largo",
+    "description": "Falange proximal del dedo 1 del pie.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Metatarsiano correspondiente",
+      "Falange siguiente"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Proximal phalanx of first finger of foot.l"
+    ]
+  },
+  {
+    "id": "foot-phalanx-1-distal-r",
+    "name": "Falange distal · dedo 1",
+    "latin": "Phalanx distalis digiti 1 pedis · dextra",
+    "english": "Distal phalanx of first finger of foot",
+    "region": "foot",
+    "kind": "largo",
+    "description": "Falange distal del dedo 1 del pie.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Tuberosidad de la falange distal"
+    ],
+    "articulations": [
+      "Falange precedente"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Distal phalanx of first finger of foot.r"
+    ]
+  },
+  {
+    "id": "foot-phalanx-1-distal-l",
+    "name": "Falange distal · dedo 1",
+    "latin": "Phalanx distalis digiti 1 pedis · sinistra",
+    "english": "Distal phalanx of first finger of foot",
+    "region": "foot",
+    "kind": "largo",
+    "description": "Falange distal del dedo 1 del pie.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Tuberosidad de la falange distal"
+    ],
+    "articulations": [
+      "Falange precedente"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Distal phalanx of first finger of foot.l"
+    ]
+  },
+  {
+    "id": "foot-phalanx-2-proximal-r",
+    "name": "Falange proximal · dedo 2",
+    "latin": "Phalanx proximalis digiti 2 pedis · dextra",
+    "english": "Proximal phalanx of second finger of foot",
+    "region": "foot",
+    "kind": "largo",
+    "description": "Falange proximal del dedo 2 del pie.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Metatarsiano correspondiente",
+      "Falange siguiente"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Proximal phalanx of second finger of foot.r"
+    ]
+  },
+  {
+    "id": "foot-phalanx-2-proximal-l",
+    "name": "Falange proximal · dedo 2",
+    "latin": "Phalanx proximalis digiti 2 pedis · sinistra",
+    "english": "Proximal phalanx of second finger of foot",
+    "region": "foot",
+    "kind": "largo",
+    "description": "Falange proximal del dedo 2 del pie.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Metatarsiano correspondiente",
+      "Falange siguiente"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Proximal phalanx of second finger of foot.l"
+    ]
+  },
+  {
+    "id": "foot-phalanx-2-middle-r",
+    "name": "Falange media · dedo 2",
+    "latin": "Phalanx media digiti 2 pedis · dextra",
+    "english": "Middle phalanx of second finger of foot",
+    "region": "foot",
+    "kind": "largo",
+    "description": "Falange media del dedo 2 del pie.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Falanges adyacentes"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Middle phalanx of second finger of foot.r"
+    ]
+  },
+  {
+    "id": "foot-phalanx-2-middle-l",
+    "name": "Falange media · dedo 2",
+    "latin": "Phalanx media digiti 2 pedis · sinistra",
+    "english": "Middle phalanx of second finger of foot",
+    "region": "foot",
+    "kind": "largo",
+    "description": "Falange media del dedo 2 del pie.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Falanges adyacentes"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Middle phalanx of second finger of foot.l"
+    ]
+  },
+  {
+    "id": "foot-phalanx-2-distal-r",
+    "name": "Falange distal · dedo 2",
+    "latin": "Phalanx distalis digiti 2 pedis · dextra",
+    "english": "Distal phalanx of second finger of foot",
+    "region": "foot",
+    "kind": "largo",
+    "description": "Falange distal del dedo 2 del pie.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Tuberosidad de la falange distal"
+    ],
+    "articulations": [
+      "Falange precedente"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Distal phalanx of second finger of foot.r"
+    ]
+  },
+  {
+    "id": "foot-phalanx-2-distal-l",
+    "name": "Falange distal · dedo 2",
+    "latin": "Phalanx distalis digiti 2 pedis · sinistra",
+    "english": "Distal phalanx of second finger of foot",
+    "region": "foot",
+    "kind": "largo",
+    "description": "Falange distal del dedo 2 del pie.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Tuberosidad de la falange distal"
+    ],
+    "articulations": [
+      "Falange precedente"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Distal phalanx of second finger of foot.l"
+    ]
+  },
+  {
+    "id": "foot-phalanx-3-proximal-r",
+    "name": "Falange proximal · dedo 3",
+    "latin": "Phalanx proximalis digiti 3 pedis · dextra",
+    "english": "Proximal phalanx of third finger of foot",
+    "region": "foot",
+    "kind": "largo",
+    "description": "Falange proximal del dedo 3 del pie.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Metatarsiano correspondiente",
+      "Falange siguiente"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Proximal phalanx of third finger of foot.r"
+    ]
+  },
+  {
+    "id": "foot-phalanx-3-proximal-l",
+    "name": "Falange proximal · dedo 3",
+    "latin": "Phalanx proximalis digiti 3 pedis · sinistra",
+    "english": "Proximal phalanx of third finger of foot",
+    "region": "foot",
+    "kind": "largo",
+    "description": "Falange proximal del dedo 3 del pie.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Metatarsiano correspondiente",
+      "Falange siguiente"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Proximal phalanx of third finger of foot.l"
+    ]
+  },
+  {
+    "id": "foot-phalanx-3-middle-r",
+    "name": "Falange media · dedo 3",
+    "latin": "Phalanx media digiti 3 pedis · dextra",
+    "english": "Middle phalanx of third finger of foot",
+    "region": "foot",
+    "kind": "largo",
+    "description": "Falange media del dedo 3 del pie.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Falanges adyacentes"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Middle phalanx of third finger of foot.r"
+    ]
+  },
+  {
+    "id": "foot-phalanx-3-middle-l",
+    "name": "Falange media · dedo 3",
+    "latin": "Phalanx media digiti 3 pedis · sinistra",
+    "english": "Middle phalanx of third finger of foot",
+    "region": "foot",
+    "kind": "largo",
+    "description": "Falange media del dedo 3 del pie.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Falanges adyacentes"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Middle phalanx of third finger of foot.l"
+    ]
+  },
+  {
+    "id": "foot-phalanx-3-distal-r",
+    "name": "Falange distal · dedo 3",
+    "latin": "Phalanx distalis digiti 3 pedis · dextra",
+    "english": "Distal phalanx of third finger of foot",
+    "region": "foot",
+    "kind": "largo",
+    "description": "Falange distal del dedo 3 del pie.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Tuberosidad de la falange distal"
+    ],
+    "articulations": [
+      "Falange precedente"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Distal phalanx of third finger of foot.r"
+    ]
+  },
+  {
+    "id": "foot-phalanx-3-distal-l",
+    "name": "Falange distal · dedo 3",
+    "latin": "Phalanx distalis digiti 3 pedis · sinistra",
+    "english": "Distal phalanx of third finger of foot",
+    "region": "foot",
+    "kind": "largo",
+    "description": "Falange distal del dedo 3 del pie.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Tuberosidad de la falange distal"
+    ],
+    "articulations": [
+      "Falange precedente"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Distal phalanx of third finger of foot.l"
+    ]
+  },
+  {
+    "id": "foot-phalanx-4-proximal-r",
+    "name": "Falange proximal · dedo 4",
+    "latin": "Phalanx proximalis digiti 4 pedis · dextra",
+    "english": "Proximal phalanx of fourth finger of foot",
+    "region": "foot",
+    "kind": "largo",
+    "description": "Falange proximal del dedo 4 del pie.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Metatarsiano correspondiente",
+      "Falange siguiente"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Proximal phalanx of fourth finger of foot.r"
+    ]
+  },
+  {
+    "id": "foot-phalanx-4-proximal-l",
+    "name": "Falange proximal · dedo 4",
+    "latin": "Phalanx proximalis digiti 4 pedis · sinistra",
+    "english": "Proximal phalanx of fourth finger of foot",
+    "region": "foot",
+    "kind": "largo",
+    "description": "Falange proximal del dedo 4 del pie.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Metatarsiano correspondiente",
+      "Falange siguiente"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Proximal phalanx of fourth finger of foot.l"
+    ]
+  },
+  {
+    "id": "foot-phalanx-4-middle-r",
+    "name": "Falange media · dedo 4",
+    "latin": "Phalanx media digiti 4 pedis · dextra",
+    "english": "Middle phalanx of fourth finger of foot",
+    "region": "foot",
+    "kind": "largo",
+    "description": "Falange media del dedo 4 del pie.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Falanges adyacentes"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Middle phalanx of fourth finger of foot.r"
+    ]
+  },
+  {
+    "id": "foot-phalanx-4-middle-l",
+    "name": "Falange media · dedo 4",
+    "latin": "Phalanx media digiti 4 pedis · sinistra",
+    "english": "Middle phalanx of fourth finger of foot",
+    "region": "foot",
+    "kind": "largo",
+    "description": "Falange media del dedo 4 del pie.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Falanges adyacentes"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Middle phalanx of fourth finger of foot.l"
+    ]
+  },
+  {
+    "id": "foot-phalanx-4-distal-r",
+    "name": "Falange distal · dedo 4",
+    "latin": "Phalanx distalis digiti 4 pedis · dextra",
+    "english": "Distal phalanx of fourth finger of foot",
+    "region": "foot",
+    "kind": "largo",
+    "description": "Falange distal del dedo 4 del pie.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Tuberosidad de la falange distal"
+    ],
+    "articulations": [
+      "Falange precedente"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Distal phalanx of fourth finger of foot.r"
+    ]
+  },
+  {
+    "id": "foot-phalanx-4-distal-l",
+    "name": "Falange distal · dedo 4",
+    "latin": "Phalanx distalis digiti 4 pedis · sinistra",
+    "english": "Distal phalanx of fourth finger of foot",
+    "region": "foot",
+    "kind": "largo",
+    "description": "Falange distal del dedo 4 del pie.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Tuberosidad de la falange distal"
+    ],
+    "articulations": [
+      "Falange precedente"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Distal phalanx of fourth finger of foot.l"
+    ]
+  },
+  {
+    "id": "foot-phalanx-5-proximal-r",
+    "name": "Falange proximal · dedo 5",
+    "latin": "Phalanx proximalis digiti 5 pedis · dextra",
+    "english": "Proximal phalanx of fifth finger of foot",
+    "region": "foot",
+    "kind": "largo",
+    "description": "Falange proximal del dedo 5 del pie.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Metatarsiano correspondiente",
+      "Falange siguiente"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Proximal phalanx of fifth finger of foot.r"
+    ]
+  },
+  {
+    "id": "foot-phalanx-5-proximal-l",
+    "name": "Falange proximal · dedo 5",
+    "latin": "Phalanx proximalis digiti 5 pedis · sinistra",
+    "english": "Proximal phalanx of fifth finger of foot",
+    "region": "foot",
+    "kind": "largo",
+    "description": "Falange proximal del dedo 5 del pie.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Metatarsiano correspondiente",
+      "Falange siguiente"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Proximal phalanx of fifth finger of foot.l"
+    ]
+  },
+  {
+    "id": "foot-phalanx-5-middle-r",
+    "name": "Falange media · dedo 5",
+    "latin": "Phalanx media digiti 5 pedis · dextra",
+    "english": "Middle phalanx of fifth finger of foot",
+    "region": "foot",
+    "kind": "largo",
+    "description": "Falange media del dedo 5 del pie.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Falanges adyacentes"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Middle phalanx of fifth finger of foot.r"
+    ]
+  },
+  {
+    "id": "foot-phalanx-5-middle-l",
+    "name": "Falange media · dedo 5",
+    "latin": "Phalanx media digiti 5 pedis · sinistra",
+    "english": "Middle phalanx of fifth finger of foot",
+    "region": "foot",
+    "kind": "largo",
+    "description": "Falange media del dedo 5 del pie.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Cabeza"
+    ],
+    "articulations": [
+      "Falanges adyacentes"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Middle phalanx of fifth finger of foot.l"
+    ]
+  },
+  {
+    "id": "foot-phalanx-5-distal-r",
+    "name": "Falange distal · dedo 5",
+    "latin": "Phalanx distalis digiti 5 pedis · dextra",
+    "english": "Distal phalanx of fifth finger of foot",
+    "region": "foot",
+    "kind": "largo",
+    "description": "Falange distal del dedo 5 del pie.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Tuberosidad de la falange distal"
+    ],
+    "articulations": [
+      "Falange precedente"
+    ],
+    "side": "r",
+    "division": "appendicular",
+    "sources": [
+      "Distal phalanx of fifth finger of foot.r"
+    ]
+  },
+  {
+    "id": "foot-phalanx-5-distal-l",
+    "name": "Falange distal · dedo 5",
+    "latin": "Phalanx distalis digiti 5 pedis · sinistra",
+    "english": "Distal phalanx of fifth finger of foot",
+    "region": "foot",
+    "kind": "largo",
+    "description": "Falange distal del dedo 5 del pie.",
+    "landmarks": [
+      "Base",
+      "Cuerpo",
+      "Tuberosidad de la falange distal"
+    ],
+    "articulations": [
+      "Falange precedente"
+    ],
+    "side": "l",
+    "division": "appendicular",
+    "sources": [
+      "Distal phalanx of fifth finger of foot.l"
+    ]
+  }
+]
